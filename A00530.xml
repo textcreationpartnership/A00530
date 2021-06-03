@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The recantation of a Brownist. Or A reformed puritan. Written by one that hath altogether, bin led in the same erronious oppinions for many yeeres together: and now since his conuersion, hath measured the pretended holy discipline, by pastors, doctors, elders and deacons, (which the disciplinarian malecontents would obtrude vpon our Church,) and hath found it far shorter, then the discipline vsed either in the primitiue Church, or in this our Church of England: if all antiquitie be not reiected</title>
+            <author>Fairlambe, Peter.</author>
+         </titleStmt>
+         <extent>Approx. 124KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A00530</idno><idno type="EEBO-CITATION">99837614</idno>
+  <idno type="VID">1947</idno>
+  <idno type="EEBO-PROQUEST">2240864473</idno>
+  <idno type="STC">STC 10668</idno>
+  <idno type="STC">ESTC S101811</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99837614e"/>
+            <note>(EEBO-TCP ; phase 2, no. A00530)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1947)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 789:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The recantation of a Brownist. Or A reformed puritan. Written by one that hath altogether, bin led in the same erronious oppinions for many yeeres together: and now since his conuersion, hath measured the pretended holy discipline, by pastors, doctors, elders and deacons, (which the disciplinarian malecontents would obtrude vpon our Church,) and hath found it far shorter, then the discipline vsed either in the primitiue Church, or in this our Church of England: if all antiquitie be not reiected</title>
+                  <author>Fairlambe, Peter.</author>
+               </titleStmt>
+               <extent>[60] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by R. Blower] for Henry Gosson, and are to be sold at the signe of the Sunne, in Paternoster rowe,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Peter Fairlambe.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-G⁴ H² .</note>
+                  <note>The first leaf is blank.</note>
+                  <note>The title page is probably a cancel. Variant (probably the cancellandum): title page partly in a different setting, reading: .. and now since his conuersion, hath and doth approue, the holy discipline ..</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Variant.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Brownists --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:1947:1"/>
+            <pb facs="tcp:1947:1"/>
+            <p>THE RECAN<g ref="char:EOLhyphen"/>tation of a Brownist. <hi>OR</hi> A REFORMED PVRITAN.</p>
+            <p>WRITTEN BY ONE THAT HATH altogether, bin led in the same erronious op<g ref="char:EOLhyphen"/>pinions for many yeeres together: and therevpon banished this Realme. And now since his conuersion, hath and doth approue, the holy Disci<g ref="char:EOLhyphen"/>pline, by the auncient Pastors, Doctors and Elders (which Disciplinarian malecontents would <hi>ob<g ref="char:EOLhyphen"/>trade vpon our Church,) and hath found it far shor<g ref="char:EOLhyphen"/>ter,</hi> then the Discipline vsed either in the Primitiue Church, or in this our Church of England.</p>
+            <p>At London printed for Henry Gosson, and are to be sold at the signe of the Sunne, in Paternoster rowe. 1606.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:1947:2"/>
+            <pb facs="tcp:1947:2"/>
+            <head>TO THE RIGHT HONO<g ref="char:EOLhyphen"/>rable Lord Charles Howard, Earle of Nottingham, Barron of Effingham, Lorde <hi>Steward</hi> of his Highnes honorable castle of <hi>Windsor,</hi> Lord high Admirall of England, Knight of the most Noble order of the Garter, and one <hi>of his Maiesties most Honorable priuie Counsell: Peter Fairlambe,</hi> wisheth health and all in<g ref="char:EOLhyphen"/>crease of true honor, in this life, and in that to come Eternall happinesse.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T may seeme strange vnto you (Right Honorable Lord, that I who some eigh<g ref="char:EOLhyphen"/>teene yeeres past (dwelling in Deptford Strand) was diuers times brought before your Lordship, for my contempt of our church and the discipline thereof, should now present vnto you my defence of the the same, especially considering how strongly I was that way seduced, for I was so peremptoriely perswaded, that my mother (this Church) was an Harlot, that I could not be withdrawne in many yeares. Although I conferred oft with diuers Ministers, in diuers parts of England, as also in my trauailes with the best Ministers in Don<g ref="char:EOLhyphen"/>ficke and Denmark, and in the Dutch and French churches in the lowe countreys. But our God who did open Lydia, hart to at<g ref="char:EOLhyphen"/>tend, and beleeue Paules preaching,<note place="margin">Act. 16.14</note> and who calles men home at what houre it pleaseth him: did at last take those fogges and
+<pb facs="tcp:1947:3"/> scales from my eyes, blessed be his holy name for it: After I had returned into England (from Barbary) and submitted my sel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to the gouernors of our Church, who did vse me more kindly then I eyther had deserued, or did expect. For the right Reue<g ref="char:EOLhyphen"/>rend Father in God, <hi>Richard Banckroft,</hi> beeing then newly con<g ref="char:EOLhyphen"/>secrated Lord Bb. of London: did shew himselfe most louing and liberall to me, (As did the father in the Gospell to the lost sheepe his sonne) And the right Worshipful,<note place="margin">Luke 15.22:23.24.</note> Sir Edward Stanop, did forthwith giue mee a discharge vnder seale, from all former warrants gone out for my apprehension▪ then I presently retur<g ref="char:EOLhyphen"/>ned againe into Barbary, not onely to seeke maintenance for my family: but also to see if God would vse me as a meanes, to draw from that schisme either such as were in it before I first came there, or such as partly by my meanes were drawn into it: And I praise God I failed not of my expectation: after this came thither, this reuerend preacher with whom I had this dispute, in other res<g ref="char:EOLhyphen"/>pects, a most honest religious and worthy man he was, (for I am not I praise God like those slinging waspes that if a man discend from them in any point, with neuer so good a reason, they straight <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e him with the name of an Apostutate, an enemy to their truth: Nay, it is well if he be not reputed an Athist, yet both di<g ref="char:EOLhyphen"/>uine and humaine writings might teach such better lessons: first the holy Bible teacheth vs to try all thinges, and onely to choose that which is good, and no more, who euer deliuer it: Nay the Apostle saith,<note place="margin">Tim. Gal: 1.8.</note> it an Angell from heauen teach any thing more then truth, holde him accursed: and in the Reuelation, the pastor of the Church of Ephesus, is commended for his triall of such thinges: And Peter Martyr in his common places, speaking of Dauid sayeth,<note place="margin">Reu 2 2.</note> that so excellent a body was not without his ble<g ref="char:EOLhyphen"/>mishes, and that there was neuer man so holy and perfect in euery respect,<note place="margin">Peter Martyr. Common pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces. Pet. 4 pag 258.</note> but was corrupted with some sinne: Verily (saith he) wee ought to follow and imitate the vertues of Godly men: but not to their faults, and so for that excellent man of God, nay these vncharitable sencerars of their brethren, may see to their owne shame, the charitie that in olde time, the fathers of the Churches had euen toward Heritikes, great Dionisius Bushop
+<pb facs="tcp:1947:3"/> of Alexandria in Egipt, who liued more then one thousand three hundreth agoe, as <hi>Eusebius</hi> sheweth in his Ecclesiasticall Histo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>: Disputing against one <hi>Nepos</hi> a Bushop,<note place="margin">Euseb. lib. 7. 123.</note> who had wrot to proue (like our Ierusalemits in these dayes) that Christ should raigne heere on earth King, one thousand yeares: and had drawne ma<g ref="char:EOLhyphen"/>ny Disciples to him. Yet this great learned father, is so farre from the humor of some in these dayes, that he giues this <hi>N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>os</hi> wonderfull commendations, for many excellent partes that God had giuen him, for the good of his Church: and doubts not but he rests with God. Many examples more might be giuen to this end, if it would preuaile with them: but I haue seene our prouerbe verified in many of them (none so bold as blind bay<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.) Now this Gentleman Mr <hi>Barnhere</hi> brought mee commendati<g ref="char:EOLhyphen"/>ons and a letter from some that had before that, beene my good friends: The effect was to assist him in setting vp the <hi>Geneua</hi> or Scottish presbitory, but when I made knowne to him, my vt<g ref="char:EOLhyphen"/>ter dislike of that kind of discipline, as which had giuen the Brow<g ref="char:EOLunhyphen"/>nists their holde: then he drew me by letters from time to time, to this dispute, which so soone as it was made knowne I lost most part of my old friends, to my vtter vndoing as it is falne out since, (except God be more mercifull to me then men haue yet beene) for I beeing euen from my first looking after Religion, drawne to effect that trouble church, deuise of new discipline, did who<g ref="char:EOLhyphen"/>ly associate my selfe with men of that minde, and was well im<g ref="char:EOLhyphen"/>ployed by them, but since I left shooting in their bowe, they haue at least some of them, not onely withdrawne their owne fa<g ref="char:EOLhyphen"/>uour from me, but perswaded others to detest mee. So that in truth I haue iust cause to giue God thankes, that at this last change of princes, their deuise did not preuaile, for had it, I am per<g ref="char:EOLhyphen"/>swaded by things which I haue obserued,<note place="margin">In his 2.<seg rend="sup">•</seg> booke to the prin<g ref="char:EOLhyphen"/>ce called Bassillicō dowr. pag. 41.42.4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> that the courts of blou<g ref="char:EOLhyphen"/>dy Bonnar, and Steuen <hi>Gardner,</hi> might haue giuen place to some of them, for to defame his quiet neighbour<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the sooner should hee haue obtained an elders gowne to couer all his pre<g ref="char:EOLhyphen"/>cise hipocrisie, for to borrow a speech of his most excellent Ma<g ref="char:EOLhyphen"/>jestie (whom God euer preserue) I protest before the great God that one shall not (of hardly) finde among those that of late were
+<pb facs="tcp:1947:4"/> called hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> land, or border theeues, greater in gratitude, and mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> li<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and vild slaunders, then with these phamatick spiritted R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>formers.</p>
+            <p>I did neuer purpose to publish this dispute, but because they haue giuen out in all places of this land (yea and out of it too) that I haue so abused this minister, as did not become any chri<g ref="char:EOLhyphen"/>stian, and all that effect that cause beleeued it, I was aduised both by an honorable personage, and by diuers: no small friends to the new discipline to print i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, (who hauing hard it, pittied to haue heard me so oft abused for it) yet they are in minde that if it will recouer my credit againe with all indifferent men, euen of that sort. For I doe confesse that many who haue and yet doe, will effect that discipline, deserue not the name of Puritanes: for I am perswaded that thousandes of them haue honest harts to God and man, although for a time (as I did, they stumble at this vnhappie stone, I would some among them could so charitably conceiue of such as withstand their weake deuise: and sometimes for distinction sake vse that name: But it is not so; for not long since I hard an angry preacher out of a Pulpit affirme, that whosoeuer called any of Gods children Puritanes should be saued, (what the diuell was saued) a hard sentence a<g ref="char:EOLhyphen"/>gainst the ancient and the now present churches of God, if a man might beleeue him, but by his leaue it was the froth of a male-contents zeale: Now I most humbly beseech your Lordship, to shrowd this discourse vnder your honorable protection, the cause why I present your Honor with this, is the want of a bet<g ref="char:EOLhyphen"/>ter matter, and my vnfayned loue vnto your most charitable Lordship: for I shall neuer forget to praise God, and be thank<g ref="char:EOLhyphen"/>full to your Honor, for your exceeding christian compassion to<g ref="char:EOLhyphen"/>wardes mee, when I did deserue your Lordships hard censure: Thus my good Lord, crauing pardon for my presumption: I commit your good Lordship to the protection of the Almighty:</p>
+            <closer>
+               <dateline>From my house at Ratliffe
+<date>this 4. October. 1606.</date>
+               </dateline>
+               <signed>Your Lordships most dutifull suppliant <hi>Peter Fairlambe.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:1947:4"/>
+            <head>TO THE CHRI<g ref="char:EOLhyphen"/>stian Reader, Grace and peace in Christ: &amp;c.</head>
+            <p>
+               <seg rend="decorInit">H</seg>AVING beene heretofore (right cur<g ref="char:EOLhyphen"/>teous and friendly Reader) led into the schisme of Brownists or Donatists of England, by following and beleeuing certaine of our Preaches, who drew many into a course vnder pretence of extraordinarie zeale, the grounds wher<g ref="char:EOLhyphen"/>of droue vs into another far worse (God knowes) namely to that seperation from the Church of England: beeing taught by the first sort (com<g ref="char:EOLhyphen"/>monly called Puritanes) that the ministerie and discipline of our Church is Ante-christian: which whosoeuer beleeueth (ha<g ref="char:EOLhyphen"/>uing a good conscience) cannot chuse but fall into that seperation as I did, and continue therin, vntill the grounds set forth by the first sort of Teachers be shewed to be weak and vnsound: as they are most fully and learnedly by that worthy and reuerend Fa<g ref="char:EOLhyphen"/>ther D: Bilson B: of Winchester, in his worthy and learned worke <hi>called the Perpetuall Gouernment of Christes Church:</hi> and other bookes mentioned in the discourse following. Now I be<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:1947:5"/> by the great mercie of God, after many miserable dayes spent in these courses, both by land and sea, and diuers very hard imprisonments (as I deserued) to my great impouerishing brought into the bosome of this Church againe. I was well esteemed of by diuers great fauourites, of the pre<g ref="char:EOLhyphen"/>tended holy discipline as a man, fit to grace that humane deuise. For they knew that I then could, and yet can if I would (as some doe) dissemble for my bellies sake, say as much for that di<g ref="char:EOLhyphen"/>uise, as the most vnlearned Artificer in this Land could or can doe. But I not hauing learned their art (and the Iesuites) of Equiuocation or dissimulation, did plainely make knowne vn<g ref="char:EOLhyphen"/>to them, that vtterly disliked that discipline as which had gi<g ref="char:EOLhyphen"/>uen the poore Brownists their hold, as I haue prooued in the Treatise following very plainely. I had no sooner made known my Resolution but I was censured by busie Reformers, who became my vtter and cruell enemies, seeking to disgrace mee, both at home and abroad by all vnlawfull meanes and slaunders (as tis their vse, to deale with all them, that touching disciplina<g ref="char:EOLhyphen"/>rie courses, change their minde, and begin to haue any liking of the present gouerment established in our Church. Trauailing into Barbary to seeke maintenance for my wife and 7. children thither they sent worde, that I had articled against two Church<g ref="char:EOLhyphen"/>wardens, for suffring certaine Brownists to liue in the Parish, with their children vn-baptized, and that the men were vndone by me, which was with the rest a malicious vntruth: For I with a Preacher of mine acquaintance searched all the offices in Lon<g ref="char:EOLhyphen"/>don, and could not finde eyther Brownists or Churchwardens of the parish of Stepney in any trouble at all. As for the Brownists I was so farre from troubling them, or causing their trouble beeing honest simple people that when they were by the Officers discouered, I went twice to that right Reuerend and worthy Father Archb. White gift in their behalfe: who did ea<g ref="char:EOLhyphen"/>sily condiscend that their children (beeing some yeeres of age) should be as priuately Baptized as might bee, and that in the Church and they no farther troubled, as may appeare by a letter written by Sir Edward Stanop at my Lordes appointment vnto Mr. Thomson the Minister and the Churchwardens of the said
+<pb facs="tcp:1947:5"/> Parish of Stepney. Howbeit some of them haue railed vpon me in the open streets of London with most opprobrious spee<g ref="char:EOLhyphen"/>ches, bidding me go tell their Antechristian holinesses the Bu<g ref="char:EOLhyphen"/>shops my new masters, that they were enemies to the truth of God and all good Preachers: though these impure Railers doe submit themselues to all the orders of our Church as I do, with what conscience let the wise Iudge. It is not vnknowne to ma<g ref="char:EOLhyphen"/>ny in the Parish what cruell hatred that sort hath laboured to bring me into, euen to the vndoing of my Wife and 7. poore children in the time of the last Plague, and euer since, for shew<g ref="char:EOLhyphen"/>ing my priuate dislike of certaine seditious doctrines deliuered at that time in the Church of Stepney, by one who for diuers horrible beastly and notorious misdemeanors was suspended and silenced. They most slaunderously charged mee to bee the cause of his troubles, and so continued plotting my ouerthrow by such shamelesse meanes, accounting me worse then <hi>Iulian</hi> the Apostata, maliciously beating my children in the streetes, not shaming to say, that they hoped to see my children seeke their bread out of the durtie channels in the streetes: for driuing (as they said) that good man away: Who since that time, hath cleared mee, of their accusations publikely in the Pulpit, and washed his hands (that were so filthy before) though his flatterers giue out that he recanted for feare, onely to keepe himselfe within the safetie of the ministerie from irregularitie, yea albeit he sub<g ref="char:EOLhyphen"/>scribed most largely, and would haue done more then that if he had beene vrged. What should I speake of their worse then Tur<g ref="char:EOLhyphen"/>kish and more then sauage crueltie, in diswading my neighbours from my societie. What should I speake of their pride, in com<g ref="char:EOLhyphen"/>paring with, yea preferring some of their fanaticall preachers and many of their owne selues, before the ancient fathers, yea aboue S: Peter the Apostle. Doe they not know what with Mr. <hi>Caluin</hi> that excellent light in Gods Church, did write to <hi>Iacobus Grineus</hi> before his commentary on the Romanes; concerning the reue<g ref="char:EOLhyphen"/>rent estimation, that men ought to haue of the wisedome and authoritie of the auntient fathers. Or were they neuer acquain<g ref="char:EOLhyphen"/>ted with the speech had by old Mr. <hi>Crowley</hi> our own countriman, who deemed those no better then most arrogant Heretikes,
+<pb facs="tcp:1947:6"/> which will compare any of our time, yea <hi>Caluin</hi> himselfe with S. <hi>Augustine.</hi> After they had breathed out against mee a sillie wretch, against the saints in heauen, and the holy men of our time now at rest, with the elect in heauen: their cursed threat<g ref="char:EOLhyphen"/>nings (in a short space after) tooke such effect that their strong venemous breath which I could not endure, droue me and mine houshold into the country: where my poore wife and children, mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stned their bread with teares, and their drinke with we e<g ref="char:EOLhyphen"/>ping, as chaced by these tyrants, by sea and by Land, into places vnknowne to them and me, which I pray thee O Lord lay not vnto their charge but forgiue their sinnes and relieue our distresses. Maruaile not I pray you ne be not offended at me, that I thus ease my sorrowes by relating them vnto your christian compassionate eares. My poore maintenance of a iust quarrell, in a good conscience hath occasioned these plowers to plow thus vpon my backe, and to make long furrowes. I sent a coppie of the Letters answeres confutations and replications on both sides (betwixt Mr. <hi>Barnhere</hi> and me in Barbery) vnto some of my neighbours the parishioners concerning the controuer<g ref="char:EOLhyphen"/>sies then very rife: and now raked vp againe, healing and fla<g ref="char:EOLhyphen"/>ming out, I did not at the first aintend the publishing thereof in print or to any whome it did not concerne, which knew not of the businesse which then fell out. This is no more but a Coppie of that which I sent vnto my neighbours at Ratliffe and Lime<g ref="char:EOLhyphen"/>house, when I was in Barbary. I haue not learned to abuse any mans person, or his gifts, be they beuer so meane. But I rather say this man now deceased was a mirrour of that sort of Ministers, who for his knowledge and faith in Christ, for his painefull study and exercise in the scriptures, knowledge in Phi<g ref="char:EOLhyphen"/>sicke, he was to be commended, imbraced reuerenced. A man which carried himselfe with that moderation and meekenes of spirit, in the handling of these controuersies both priuately and publikely, as I wish vnfaynedly, that the measure of that grace, were bestowed vpon some of the peeuish spirits, when God hath giuen them repentance. That which I haue added to the writ<g ref="char:EOLhyphen"/>ten Coppie is the names of those bookes with &amp; against disci<g ref="char:EOLhyphen"/>pline, which I haue read, with an answere vnto two obiections,
+<pb facs="tcp:1947:6"/> which came to mine handes since I wrote it: as also a table of such Clergie Martirs as I find in our Martyr booke, and in <hi>Euse<g ref="char:EOLhyphen"/>bius Pamphil</hi>) God graunt that though these things be collected by a poore ignorant Artificer, neither professing nor hauing wherewith to doe it as it should be done: yet hee would blesse to his Glory such weake meanes in such sort, that at the least such poore men (as my selfe was once) may bee kept from rending themselues from Christes holy Church heere in England, or else where. For I doe heare that there be some increase of Brownists now in and about London, who are obstinate in their ignorance, affirming that our Church is an hold of Deuils, and a cage of vncleane birdes, whose eyes I beseech God to open, that they may come home againe with the Prodigall child. And for our selues let vs hartily pray for the peace of Ierusalem, for they shall prosper that loue the same, <hi>Psalme</hi> 122.</p>
+            <closer>
+               <signed>Yours in the Lorde Peter Fairlambe.</signed>
+            </closer>
+         </div>
+         <div type="to_the_author">
+            <pb facs="tcp:1947:7"/>
+            <pb facs="tcp:1947:7"/>
+            <opener>
+               <salute>To the author salutation.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>IR I haue returned vnto you this small Treatise, clad in a Printers Liuerie, although it bee not of the newest cut yet I doubt not but it will last out the wearing of a fa<g ref="char:EOLhyphen"/>shion, If the age thinke her selfe cloied euen to sacietie; with the multitude of these contro<g ref="char:EOLhyphen"/>uersies as I know you imagine, she must lay the blame on the iniquitie of those, who giue continuallie fresh occasions to the publishing of this and the like bookes. For although the church hath nursed many valiant sonnes, who haue played the Champions in their mothers right, and stood boldly in defence of her iust cause. Yet still this forraine monster whome England hath too long nourished, ceaseth not to infect her skirts, and disturbe her long desi<g ref="char:EOLhyphen"/>red peace. If that were but iuuenilis error, age and maturitie of discretion might redresse it: but since I see it attended by gray hayres to it, makes mee suspect our Age wherein men
+<pb facs="tcp:1947:8"/> grow rotten in yeeres, before they are ripe in iudgment. As touching the Title of the booke it may well minister occasion vnto Momus with aesops dog to snarle at the shadow: but sure I am, he cannot bite the substance, in which res<g ref="char:EOLhyphen"/>pect I deeme you happie, that could so cun<g ref="char:EOLhyphen"/>ningly deceiue him. But how euer peruerse iudgements may censure this your labour; I doubt not but the discreete and iudicious rea<g ref="char:EOLhyphen"/>der will afford you a kinde share in their af<g ref="char:EOLhyphen"/>fections. Thus wishing the continuance of your rest, from those former vexations of mind wherewith you haue beene so long by that vn<g ref="char:EOLhyphen"/>ruly generation molested: I commit yourselfe to God, and the booke to the mercy of Paules Church-yard. </p>
+            <closer>
+               <salute>Farewel</salute>
+               <dateline>
+                  <date>this 2 of October. 1606:</date>
+               </dateline>
+               <signed>Yours a little longer when I haue more leisure. T.S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:1947:8"/>
+            <head>AN Answere vnto certaine letters of Mr. T. B. Preachar to the English Marchants in Barbary, by P. F. about, &amp; concerning Disciplina<g ref="char:EOLhyphen"/>ry causes: Written in October, <hi>Anno dom.</hi> 1599. in <hi>S. Crusi.</hi> in answere of a former Letter of M. T. B.</head>
+            <p>
+               <hi>SIR, My duty Remembred,</hi> with Hope and desire of your Health, which I pray <hi>God</hi> cōtinue to his great glory, your comfort, and the good of his People, ouer whom you haue Chardg, Your Letters bearing Date the 15. of <hi>September,</hi> I haue receiued, &amp; they doe affect mée diuersly: for it séemeth vnto mée, that you rather affect the seperati<g ref="char:EOLhyphen"/>on, or some such like thinge: then the Church of <hi>Englande</hi> as it now stand<g ref="char:EOLhyphen"/>eth by law established, by your iesting at mine high resolution (as you cal it) Which Resolution of mine, is to Approue of, and to ioyne with the Church of <hi>Englande,</hi> as with the Church of <hi>God,</hi> And diuers such like nippes, which to auoide contention, I let passe: And I protest vnto you <hi>M.B.</hi> there is nothing more deare vnto me, then
+<pb facs="tcp:1947:9"/> the truth, and therefore I desire, if I haue swarued from the same, in any part, to be instructed, rather then left in Errour. For I do not builde on mens writings (as you say I doe) further then I s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them to agree with <hi>Gods word,</hi> as farre as I am able to iudg.</p>
+            <p>And seeing <hi>God</hi> brings his truth to vs in Earthen vessels, So farre wee must receiue it, and be thankefull to him, and such in<g ref="char:EOLhyphen"/>struments of his. <hi>Now,</hi> How f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r I differ from my former iudge<g ref="char:EOLhyphen"/>ment, which you call may peremptory designements, shal plainly appeare vnto you in this inclosed: written vppon an other occasi<g ref="char:EOLhyphen"/>on, as you may perceiue, to a very great fauourer of the Disci<g ref="char:EOLhyphen"/>pline in question: who did returne me silence for an aunswere.</p>
+            <p>I beseech you peruse it indifferently, &amp; if I haue hit the marke of truth, Approue it, if not, let me receiue your censure &amp; Christi<g ref="char:EOLhyphen"/>an confutation of such reasons as haue deceiued me and others.</p>
+            <p>So shall you glorifie God, and edyfie his Church. Your writing of my iudgment now, and 7 yeres hence, is too mistical for my dul vnderstanding I pray you in your next letters let me know your meaning concerning <hi>M Iohnson,</hi> I haue considered that he will not reade any thing that commeth from me (not remembring the ol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e prouerb: Sometimes the Gardiner speakes to the purpose) neyther will he aunswere any thing of mine. Therefore I pray you write what you thinke meet in that matter, and assure your sealfe, I will approue mine honest dealing with them, by Gods help, very plainly to all the worlde ere it be long. And thus expect<g ref="char:EOLhyphen"/>ing eyther your Approbation, or your plaine and sufficient Dis<g ref="char:EOLhyphen"/>proofe or Cōfutation of my present iudgment, I commit you and your studies to the Lordes protection &amp; blessing, who make all his Elect of one minde in the truth. Farewell.</p>
+            <closer>
+               <signed>Yours to commaunde in the Lord, P. F.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Heareafter followeth the inclosed Letter, whereof mencion was made in the former Letter, to an other as it is said before.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letters">
+            <pb facs="tcp:1947:9"/>
+            <head>This letter following, Conteyneth some of the Reasons, that moued P, F, to forsake both the Brownists sepe<g ref="char:EOLhyphen"/>ration, and the Presbiteriall Discipline, to ioyne with, and ap<g ref="char:EOLhyphen"/>proue that the Church of Engl gouerment by Bushops, is best agreeing with the worde of God, and practise of the Primitiue Churches: Set downe by him at the request of a Reuerend Preacher.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Try all things, and choose that which is good. 1 <hi>Thes.</hi> 5 and the Lorde giue vs a true vnderstanding in all thinges.</head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">S</seg>IR,</hi> The other Day you demaunded of me, whether I held the Aucthoritie of the Bushops of the Church of <hi>England,</hi> lawfull or no. I being wholely imploid at y<seg rend="sup">e</seg> time, both in Body and Mind about my calling, gaue you this briefe an<g ref="char:EOLhyphen"/>swere, that I did, if they vsed it lawfully and aledged the Epistles of <hi>Timothy,</hi> &amp; <hi>Titus,</hi> for proofe: You thinking I spake very absurdly, tolde me (as many others haue done before you) that I vnderstood nothing, and that being once otherwise minded (as I was) all men would laugh at me for my grose iudgment:
+<pb facs="tcp:1947:10"/> whereby that you &amp; others, thinke that I haue altred my minde, not on any sound ground or of Conscience: But vpon sinister or worldly respect. But to satisfie you to the contrary: I assure you, that if I had tooke as much time so Deliberat, and examine them before I entred into them as I did, and beeing entred, before I left them (whatsoeuer any conceiue) I had neuer appro<g ref="char:EOLhyphen"/>ued eyther of the <hi>Presbite<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ial Discipline,</hi> or the <hi>Seperation</hi> (which of necessitie must follow. Yf the ground of that Discipline were true) from the Church of <hi>England:</hi> For after I was brought in<g ref="char:EOLhyphen"/>to some doubt, I tooke two yeares time to examin, both mine own Conscience, and the proofes on both sides. In which two yeares space, I read all that euer I could get written in English, touch<g ref="char:EOLhyphen"/>ing thiefe Controuersies on thiese three sides, as these for the Discipline, <milestone type="tcpmilestone" unit="unspecified" n="A"/>
+                     <note place="margin">Bookes in defence of the preten<g ref="char:EOLhyphen"/>ded discipline which conteyne in them, the groundes of Brow<g ref="char:EOLhyphen"/>nisme.</note>
+                     <hi>M. Cartwrightes workes. Penry, his workes. Vdals Demonstra<g ref="char:EOLhyphen"/>tion A Treatise of the Church, by Phillip Mornay. The Complaint of the Commonaltie, the expectation to England, Fenners Defence, of godly Ministers: The Ecclesiasticall discipline, M. Trauers, his learned discourse, The Counterpoyson, The Sermon on the 12. to the Romans, the dialogue of white Diuils, M. Trauers his practise of Prelates, the abstract, A Dialogue of the strife of our Church, a little booke of M. Dauisons, A Scots Disciplinarian, the Iudgement of the most Reuerend, written by M. Daneus, [as they say) The Display of D. Soame in his colours. M. Vdals Dia<g ref="char:EOLhyphen"/>logue. M. Knoxe his Epistles to England, Calvins Institutions,</hi> which directly confirmes the Bushops Offices, although it be of<g ref="char:EOLhyphen"/>ten alledged against them. <hi>The humble motion to the Councell, Martins libels, &amp; the two Admonitions to the Parliament. For the Brownists or Donatists thiese M. Browne, his booke against Lo<g ref="char:EOLhyphen"/>gick &amp; Rethorick, and of the estate of the Christians and Heathens, His Inuectiue against parish Prea<g ref="char:EOLhyphen"/>chers,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="B"/>
+                     <note place="margin">Bookes in defence of Brownisme, grounded vpon the former.</note>
+                     <hi>and hired Lecturers, and a<g ref="char:EOLhyphen"/>gainst Preaching at Paules Crosse,
+<pb facs="tcp:1947:10"/> and his answere to M. Cartwrights Letter to M. Robert Harryson, his consort: His aunswere in writing, to Steephen Bridewell. His first booke against Brownists,</hi> for his <hi>2</hi> about Communicating, was neuer answered. And <hi>Brownes</hi> Booke of the gathering and ioyning together of certaine persons in <hi>Norfolke, M. Harrisons booke on the 122 psalme, M. Barrow his discouery of the false Church:</hi> Their refutation of <hi>M. Gifford</hi> (as they call it) their description of the visible church: written by <hi>M. Barrow, M. Iohn<g ref="char:EOLhyphen"/>son Penry,</hi> and others, and since confuted by Doctor <hi>Allison</hi> their bookes against reade prayers, and their <hi>9.</hi> reasons against the Church of <hi>England,</hi> with other thinges in writing to that ef<g ref="char:EOLhyphen"/>fect: <hi>And the Articles of their new Faith printed, 1596.</hi> And for defence of the Church of <hi>Englands gouernment,</hi> these the <hi>Confu<g ref="char:EOLhyphen"/>tation</hi> of the two Admonitions to the Parliament by that reue<g ref="char:EOLhyphen"/>rend father, <hi>Doctor Whitegift,</hi> then Archbishop of <hi>Canterbury,</hi> fiue Bookes of that reuerend man <hi>M. Hooker</hi> (who is at rest with God) called the <hi>Ecclesiasticall pol<g ref="char:EOLhyphen"/>licie,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="C"/>
+                     <note place="margin">Bookes in defence of the Church of Englandes gouernment, by Bi<g ref="char:EOLhyphen"/>shops, fully confuting all the for<g ref="char:EOLhyphen"/>mer by authoritie of Scripture and practise of all the auncient Churches of God.</note> the aunswere to the <hi>Ab<g ref="char:EOLhyphen"/>stract,</hi> the aunswere to the <hi>Peti<g ref="char:EOLhyphen"/>tion</hi> made to her Highnesse by <hi>D Sutcliffe,</hi> and his Booke called the <hi>False Semblanc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> of <hi>Coun<g ref="char:EOLhyphen"/>terfait discipline</hi> detected, <hi>The perpetuall Gouernment of Christes church:</hi> Written by that most famous learned father <hi>D. Bilson B: of Winchester,</hi> and the Conspiracie for reformation, <hi>Scotizing</hi> and English <hi>Scotizing</hi> for Discipline, and the Suruay of the ho<g ref="char:EOLhyphen"/>ly Discipline. All which thrée were written (as I beare) by <hi>M:D: Bankroft,</hi> now Lord <hi>B:</hi> of <hi>London</hi> the <hi>Remonstrance, M. Rogers</hi> his sermon on the <hi>12.</hi> to the <hi>Romanes</hi> against <hi>M. Chad<g ref="char:EOLhyphen"/>dertons</hi> vpon the same text. <hi>D: Sarauia</hi> vpon the degrées of the Ministers of the worde, our booke of <hi>Martyrs,</hi> the first Colume whereof, I reade foure times ouer, in one winter distinctly: and haue collected the names of more then <hi>100</hi> Archbishops and Bishops out of it: Which all suffred Martyrdome, within <hi>300.</hi> yeeres after Christ, beside many other which were Priestes and
+<pb facs="tcp:1947:11"/> Deacons. (Sée how that will agrée with that equalitie in the ministerie which some haue taught) and <hi>Eusebius</hi> his Ecclesias<g ref="char:EOLhyphen"/>ticall Historie, contayning ten bookes <hi>Eusebius</hi> was Bishop of <hi>Cesarea</hi> in <hi>Palestine</hi> and wrote the story of the Primitiue church, for thrée hundred yéeres from Christes death, till <hi>Constantines,</hi> the first Christian Emperour. <hi>Socrates</hi> his Ecclesiasticall Histo<g ref="char:EOLhyphen"/>rie in <hi>7.</hi> bookes, who began where <hi>Eusebius</hi> left, and sheweth the estate of the Church for <hi>140.</hi> yéeres, vntill the raigne of <hi>Theodosius</hi> the younger. And out of them doth <hi>M. Foxe</hi> take all or the most part of his proofes, for the estate of the Primitiue church. <hi>Euagrius</hi> his sixe bookes, who began the Historie where <hi>Socrates</hi> left: and continued the Story of the Church for <hi>155.</hi> yéeres, ending his last booke in the raigne of <hi>Mauricius</hi> Empe<g ref="char:EOLhyphen"/>rour of <hi>Rome,</hi> the yéere of our Lord <hi>599.</hi> And albeit in rea<g ref="char:EOLhyphen"/>ding all those things together with the scriptures, <milestone type="tcpmilestone" unit="unspecified" n="D"/>
+                     <note place="margin">And all this while not any Christian Church in the world but it had a Bi<g ref="char:EOLhyphen"/>shop to gouerne both the people and the Priests (as M Caluin saith) or else these auncient workes are lyes and fables: and so is M. <hi>Foxe</hi> his booke which is grounded vpon them, which thing whosoeuer should affirme, wold scarcely deserue the name of a Chri<g ref="char:EOLhyphen"/>stian.</note> I am farre of from that knowledge wherevnto I might haue attayned, if God had in<g ref="char:EOLunhyphen"/>dued me with that quick sight and helpe of memory, which your selfe and many others doe possesse and haue yet (praised be his holy name that gaue it) I haue attayned to so much as hath giuen me a comforta<g ref="char:EOLhyphen"/>ble peace of conscience, to returne and rest in the Church of God againe. Now howsoeuer you may iudge that my vnder<g ref="char:EOLhyphen"/>standing is partly corrupted: yet that you may know that I haue taken some paines to be established in the truth (as I and the whole Church of God in all ages doe take it. I will set you downe some of that, which I can say for the power and autho<g ref="char:EOLhyphen"/>ritie of Bishops aboue Elders or Ministers, out of the Epistles to <hi>Timothy</hi> and <hi>Titus,</hi> (which the other day I could not intend to discourse vpon and that is this.</p>
+                  <p>That the holy Ghost not onely appointed <hi>Paul</hi> to make them Bishops, but gaue them authority by <hi>Paules</hi> mouth first to or<g ref="char:EOLhyphen"/>daine:
+<pb facs="tcp:1947:11"/> Secondly to examine such as be faulty, thirdly to reproue and discharge these thinges he giueth in these two churches par<g ref="char:EOLhyphen"/>ticularly to <hi>Timothy</hi> and <hi>Titus</hi> and their Successors, and to all other Bishops of Christes Church foreuer.</p>
+                  <p>This is in the text very plaine to me, howsoeuer we haue for a time wholly relyed vpon one sort of men, and taken all for cur<g ref="char:EOLhyphen"/>rant which hath beene taught vs, not duely examining the rea<g ref="char:EOLhyphen"/>sons which are by the other side, brought to ref<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll these courses.</p>
+                  <p>Nay, their persons are made so odious to the poore ignorant multitude, fauouring the Discipline (by certaine writers and preachers,) that they can scarcely speake of them with patience, much lesse reade and examine their graue and learned reasons. But to the point that <hi>Timothy</hi> had power to ordaine, <hi>Presbiters</hi> or Ministers of the word, this text is plaine in these wordes. <hi>1 Tim: 5.22. Lay handes sodenly vpon man, &amp;c.</hi> And <hi>Titus</hi> had the same power, <hi>1 Tit. For this cause left I thee in Creete, that thou shouldest ordaine elders in euery Cittie as I appointed thee.</hi> That he gaue them power to receiue accusations and examine witnesses against Ministers, the text is plaine: <hi>1 Tim: 5.19. Against an Elder receiue no accusation, but vnder two or three wit<g ref="char:EOLhyphen"/>nesses.</hi> And in the <hi>20 verse</hi> he saith: <hi>Those that sinne rebuke them openly that the rest may feare.</hi> And that they had power to sus<g ref="char:EOLhyphen"/>pend, or stop the mouthes of contentious <hi>Elders:</hi> yea and to de<g ref="char:EOLhyphen"/>priue, or depose them from the Ministerie, is as cleare as in <hi>Tit: Their mouthes must be stopped, which teach thinges they ought not for filthy lucre sake:</hi> And <hi>1. Tim: 1. Chap. 3. ver: I prayed thee to abide at Ephesus and so doe, that thou maist commaund some, that they teach no other doctrine.</hi> This is all the power that the Church of God in England giues her Bishops and these are Bishops, as appeareth by the authoritie giuen them aboue all other Ministers in <hi>Creet,</hi> and <hi>Ephesus.</hi> The case therefore is cleare, that the power of Bishops ouer their Ministers within their gouerment, is in these points approued by the expres word of God. The obiection that <hi>Timothy</hi> and <hi>Titus,</hi> were Euange<g ref="char:EOLhyphen"/>lists, and no Bishops is by many godly learned men in Eng<g ref="char:EOLhyphen"/>land
+<pb facs="tcp:1947:12"/> conf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ted, the obiection is without sense. For no power giuen properly to Euangelists was to continue for euer in the church but this power giuen to <hi>Timothy</hi> and <hi>Titus,</hi> must by Gods ex<g ref="char:EOLhyphen"/>presse commandement continue for euer, the text is plaine, <hi>1 Tim. 6.13.14.</hi> in these wordes: <hi>I charge thee in the sight of God who quickeneth all thinges, or that thou keepe this commande<g ref="char:EOLhyphen"/>ment without spot, and vn-rebukeable vntill the appearing of our Lord Iesus Christ:</hi> Twas impossible for <hi>Timothy</hi> to doe this: these precepts therefore are giuen by the holy Ghost, to all that shall come into that holy calling of Bb. vntill the end of the world, euen as they were vnto <hi>Timothy,</hi> and <hi>Titus.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="E"/>
+                     <note place="margin">See Perpetuall gouernment Chap. 12.13.14.</note>This is the Iudgement of the whole Church of Christ, for the space of <hi>1500.</hi> yeeres, and more, of the most and best writers, yea euen <hi>Cal<g ref="char:EOLhyphen"/>uin,</hi> and <hi>Beza</hi> not excepted. These thinges (Sir) would ra<g ref="char:EOLhyphen"/>ther be seriously considered, then carelessely reiected. And sure<g ref="char:EOLhyphen"/>ly men may doe well to make more account of the Fathers and Martyrs of the Primitiue church, and of the holy Histories, then in their ignorance to laugh at their simplenes, least if we doe condemne all men beside these which we doe affect, <milestone type="tcpmilestone" unit="unspecified" n="F"/>
+                     <note place="margin">See Suruay of holy discipline page 131. 132. 133. &amp;c.</note> to be voide of truth, we be condemned our selues, not onely of our consciences, but of posteritie, as beeing voide of sobrietie. For proofe that in all ages since the Apostles times, the gouern<g ref="char:EOLhyphen"/>ment by Bishops hath beene in the Church, may it please you to reade with a purpose to giue vpright iudgement, the booke of the <hi>Perpetuall Gouernment of Christes Church,</hi> and a booke cal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the <hi>False Semblance</hi> of counterfait discipline detected, and the <hi>Suruey of the pretended holy discipline, &amp;c.</hi> Therein you shall sée such reasons against the desired discipline, and for the gouern<g ref="char:EOLhyphen"/>ment of the Church of <hi>England,</hi> as may satisfie any indifferent man, except we will reiect not onely the scriptures before alled<g ref="char:EOLhyphen"/>ged, but the testimonie of all the counsels, churches, and fathers that are gone before vs, and also our booke of Martyrs, as méere prophane fables to passe the time withall: Which vngodly con<g ref="char:EOLhyphen"/>ceit,
+<pb facs="tcp:1947:12"/> I hope is far from you, and euery sober minded Christian. In the booke of the perpetuall gouernment of Christs Church, you shall see all the chiefe reasons, of those that doe vrge an o<g ref="char:EOLhyphen"/>ther discipline set downe in different letter by themselues, and the same learnedly answered. There you shall see all the maine points of that discipline layd flat vnder foot: and in the tenth chapter, <hi>Pages 228. 229. 230.</hi> you shall see it prooued, that there were neuer any called elders in the new testament, except the ciuill Gouernors, but such as were Ministers of the word and Sacraments. And in the <hi>13.</hi> Chapter, <hi>Pages 261 262. 263.</hi> you shall see in a Table a <hi>Catalogue</hi> of the names of those Bishops which succeeded one another in the foure principall Citties of the worlde, <milestone type="tcpmilestone" unit="unspecified" n="G"/>
+                     <note place="margin">Read Eusebius lib. 7. Chap. 31. Page 144.</note> which had receiued the faith, <hi>Ierusalem, Alexandria, Anti<g ref="char:EOLhyphen"/>och</hi> and <hi>Rome</hi> vntill the councell of <hi>Nice,</hi> three hundred and odde yeeres after Christ, as also the names of the Bishops of the seuen Churches of <hi>Asia,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="H"/>
+                     <note place="margin">Read Socrates lib. 1. Chap. 5. Page 222. 223.</note> and the names of their Elders, or Priests who came with them to the councell of <hi>Nice,</hi> and were vnder their gouernment, as they who subscribed to the Councell together with the Bishops, <hi>page 263.</hi> which cleane euerthroweth their conceit of the e<g ref="char:EOLhyphen"/>qualitie of Pastors, and so doth the booke of <hi>Martyres</hi> also in the description of the first ten persecutions: where it is often recorded that the Bishops of diuers Citties were martyred with such and such of their Priests and Deacons with them, long before poperie was hatched. <milestone type="tcpmilestone" unit="unspecified" n="I"/>
+                     <note place="margin">See Caluins Institutions lib. 4. cap. 4. sect. 2.</note> Master <hi>Caluine</hi> when he wrote not his affections, but his lear<g ref="char:EOLhyphen"/>ned iudgemēt agreeing fully with those things, as doth appeare in many places of his Institutions, and more plaine it is in his answere to Cardinall <hi>Sadolet,</hi> where he writeth thus: That if the Bishop of <hi>Geneua</hi> will forsake his popish religion, and embrace the truth, he is subiect to the greatest <hi>Anathema,</hi> or curse, or casting to Sathan that may bee, which shall refuse to submit himselfe vnto the <hi>Hierarchy</hi> or Priestly gouern<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:1947:13"/> of that Bishop. Reade for this the Booke called the <hi>Suruay</hi> of the <hi>pretended holy Discipline:</hi> and there you shall finde Master <hi>Caluine,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="K"/>
+                     <note place="margin">See Suruay of Discipline pag. 112. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>13. 114. 115.</note>
+                     <hi>Me<g ref="char:EOLhyphen"/>lanchton,</hi> M. <hi>Bucer,</hi> and others write thus. Being appointed by the Emperor to set down their iudgements. Now (say they) by the perpetuall obseruation of all Churches euen from the Apostles times, <milestone type="tcpmilestone" unit="unspecified" n="L"/>
+                     <note place="margin">Read Eusebius, 1. lib. cap. 1. and lib. 7. chap. 19. There shall you see Iames made Bishop of Ierusalem by the A<g ref="char:EOLhyphen"/>postles and yet was hee neuer called Beelzebub, the chiefe of the deuils as some religious Reformers haue in in print called one of the most reue<g ref="char:EOLhyphen"/>rend fathers of the Church in this age D. Whitgift, Archb.</note> wee doe see that it seemed good to the holy Ghost, that amongst Priests there should be one that should haue the charge and care of diuers Churches, &amp; the whole Ministerie committed vnto him. And, by reason of that charge he was aboue the rest, and therefore the name of Bi<g ref="char:EOLhyphen"/>shop, was attributed peculiarly vnto those chiefe Rulers of Churches. And then (they say) that in the Apostles times, one of the Priests or pastors was chosen, and ordained to bee the captaine or Prelate ouer the rest who went before the rest and had the care of soules, and the administration of the Episcopall office, specially in the highest degree, and for proofe they cite <hi>Act. 15. chap.</hi> and then conclude they after this manner. The like ordination (say they) hath been obserued perpetually in o<g ref="char:EOLhyphen"/>ther Churches; likewise as farre as we may learne out of Ec<g ref="char:EOLhyphen"/>clesiasticall Histories, and the most ancient fathers, as <hi>Tertul<g ref="char:EOLhyphen"/>lian, Cyprian, Ireneus, Eusebius,</hi> and others.</p>
+                  <p>Thus farre Master <hi>Caluin</hi> and the rest. Nowe what shall wee thinke of him, that to winne our heartes to fauour his fancie, hath tolde vs in print that <hi>Caluine</hi> would haue trembled, &amp; shaken at the name, and office of a Bishop, which is most false. In the <hi>113. page</hi> of the <hi>Suruey of Disci<g ref="char:EOLhyphen"/>pline you shall see his name.</hi> And as for M. <hi>Beza</hi> (howso<g ref="char:EOLhyphen"/>euer sometimes he was otherwise minded) yet beeing drawen by some which opposed thēselues against the discipline of <hi>Ge<g ref="char:EOLhyphen"/>neua,</hi> to be thinke himselfe better, he is now wholy with vs, as may appeare by two Letters of his written to the Lorde of
+<pb facs="tcp:1947:13"/>
+                     <hi>Canterbury</hi> his Grace that now is, which Letters hee endor<g ref="char:EOLhyphen"/>seth thus. <hi>To the most reuerend man, and Father in Christ the Lord Archbishop of Canterbury, Counsellor to the Queenes Maiestie, and Primate of all England, &amp;c.</hi> In which Letter hee confesseth the gouernment of the Church of <hi>England,</hi> by Bishops and Archbishops to bee of God, and that it hath continued in the Church euer since Saint <hi>Marks</hi> time, who was (saith he) the first Bishop of <hi>Alexandria;</hi> and so saith <hi>Caluine</hi> and all the olde Fathers. And in his booke a<g ref="char:EOLhyphen"/>gainst <hi>D. Saravia</hi> hee approueth of the gouernment of the Church of <hi>England,</hi> at large by Bishops and Archbishops to be of God, and prayeth that that singular blessing of God may be perpetuall vnto that Church of <hi>England.</hi> Read for this <hi>Suruay of Discipline, pages 131. 132. 133.</hi> Now beloued in Christ, I beseech you consider, if a man altering his minde by force of these reasons, and many mo such like, (as I and diuers others haue done) may be said to doe it without reason, know<g ref="char:EOLhyphen"/>ledge, or vnderstāding, yea or no? And if after due consideration of these things, you shall still thinke I erre, yet I beseech you &amp; al other friends to think as charitably of me, your poore friend, as of y<seg rend="sup">e</seg> whole Church of Christ, in al ages whose iudgement in these things I follow: <milestone type="tcpmilestone" unit="unspecified" n="M"/>
+                     <note place="margin">See Booke of Martyrs last edition Columne 1. page. 15.</note> for surely mine error can be no worse then theirs, but I hope your wise<g ref="char:EOLhyphen"/>dome will make better vse of these things, which God grant, Amē. And wheras, I say, that if the grounds of the discipline were true it doth approue of a separation from the Church of <hi>England:</hi> thus I proue it, and I beseech you to marke the reasons, for they will make you and other brethren, either to bee of my minde concerning the gouernment of our Church, or to ioyne with those that are separated from it, if you will keepe a good conscience. For you know there can be no halting (betweene two opinions) approued of God. Wee must make the tree good, <milestone type="tcpmilestone" unit="unspecified" n="N"/>
+                     <note place="margin">See 1. Kings 18.21. Matt. 7.18. Iames 2.</note> and his fruite good: or the tree naught, and his fruite naught. One Fountaine cannot send foorth bitter and sweet waters.</p>
+                  <p>Now thus M. <hi>Cartwright</hi> and others haue written that
+<pb facs="tcp:1947:14"/> the Discipline which he pro<g ref="char:EOLhyphen"/>poundeth is a part of the Gospell,<note place="margin">O. Marke how the Writers for new Discipline giues Brownists their holds in these their books following. For which they shall neuer answere GOD nor their Prince, but by re<g ref="char:EOLhyphen"/>pentance, which God grant may bee as faithfull and as effectual as was that of Origene, whereof we read in Euse<g ref="char:EOLhyphen"/>bius lib. 7. pages 122. 123. And then no doubt they will labour to per<g ref="char:EOLhyphen"/>swade all men to thinke well of the present gouernment contrary to their former bookes and writing wherein they haue disgraced it.</note> which if it were true, then are not they the Church of God which refuse the same, and so this separati<g ref="char:EOLhyphen"/>on from the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is by them iustified. A<g ref="char:EOLhyphen"/>gaine, he writes more plain<g ref="char:EOLhyphen"/>ly thus: That Discipline is an vnseparable marke of the true Church, which if any man beleeue, he must needs forsake the Church of <hi>England,</hi> for it hath not that marke of his: nay (you know) it doth reiect it as a meere counterfait. Now the Church can no more be with<g ref="char:EOLhyphen"/>out her proper markes, then fire without heate or faith with<g ref="char:EOLhyphen"/>out good workes, as Master Doctor <hi>Sutcliffe</hi> hath well pro<g ref="char:EOLhyphen"/>ued in the three last Chapters of the <hi>False semblant of coun<g ref="char:EOLhyphen"/>terfait discipline detected,</hi> (as he calles his booke) where he hath likewise prooued by the olde and new testament, and the practise of all the olde and new Churches (some few of late ex<g ref="char:EOLhyphen"/>cepted) and by the iugement of old and new writers, That it is no marke of the Church, <milestone type="tcpmilestone" unit="unspecified" n="P"/>
+                     <note place="margin">Aegesippus and Clemens who were the Apostles successors approoues of a contrary order, see Eusebius lib. 2. &amp; chap. 1. lib. 4. chap. 8. and lib. 24.</note> nei<g ref="char:EOLhyphen"/>ther ought to be in the church of God, because it is a mes<g ref="char:EOLhyphen"/>sage of contention, &amp; braw<g ref="char:EOLhyphen"/>ling, and hath wrought great discomfort in the hearts of the godly, and hath destroyed many soules (without Gods great mercie) which are departed from the Church vppon offence taken by it. Reade it for more proofe against it. Another reason is this. From that Church which hath a new and strange ministerie, neuer ordained by God, ought euery one that will be saued, to separate but such is the Church of <hi>England,</hi> say the <hi>Disciplinarians</hi> &amp; namely Master <hi>Cartwright Booke 2. pages 438. 439.</hi> and <hi>445</hi>
+                     <pb facs="tcp:1947:14"/> and the <hi>Sermon</hi> vpon the <hi>12</hi> to the <hi>Romanes</hi> in these words: <milestone type="tcpmilestone" unit="unspecified" n="Q"/>
+                     <note place="margin">This sermon is the foundation of Brownisme, and is fully confuted by M. Rogers of.</note> wee want our Pa<g ref="char:EOLhyphen"/>stors, Teachers, Elders, Deacons, and widowes, and in steed of them, haue the false Ministers of <hi>Antichrist,</hi> Namely, Archbishops, Bishops, Priestes and Deacons, who stole in (saith hee) whiles the watchmen were asleepe, and with the length of their vnlawfull swordes (marke I pray you, how Master <hi>Chadderton</hi> di<g ref="char:EOLhyphen"/>sputes for a separation) kept out the Ministers of Christ. If this be true, the Church of <hi>England</hi> is not the Church of God, and then we ought still to separate. Another reason is this. From that Church which hath not onely a false Ministerie but a false worship, and false counterfeit Sacraments ought euery one to separate. But such is the Church of <hi>England,</hi> saith Master <hi>Cartwright,</hi> and the rest of the Admonitioners to the Parlia<g ref="char:EOLhyphen"/>ment, in their two admonitions (confuted by my Lorde of <hi>Canterburie</hi> that now is) in these words: <hi>Wee stand not for trifles, as for Cappe</hi> &amp; <hi>Surplesse</hi> (as we are falsely charged) but for a true worship, &amp; for Ministerie of GOD, and for the true sacramēts of <hi>Iesus Christ,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="R"/>
+                     <note place="margin">This is the very principall of all the the Brownists arguments for their se<g ref="char:EOLhyphen"/>paration that wee want the true wor<g ref="char:EOLhyphen"/>ship, Ministerie, and Sacraments of God (as these men say) and indeede if our Church did want them, the Brow<g ref="char:EOLhyphen"/>nists were in the right, for then could not our church be the church of God.</note> which beeing once established, the rest melt a<g ref="char:EOLhyphen"/>way of themselues. And in another place of that Book they say. That our publike worship was raked, or cul<g ref="char:EOLhyphen"/>led out of the Popes dūghil. And that our ministery is come as out of the <hi>Troiā</hi> horses bel<g ref="char:EOLhyphen"/>ley, to destroy the church of God. Now of these their Doctrines were true, which are the very grounds of their Discipline, the Church of <hi>England</hi> could not be the Church of God, for the reasons aforesaid, neither may any ioyne therewith, but they must be pertakers of her sinnes, and so of her plagues. But these their grounds are most false, and schismaticall: and if any be otherwise minded, it seemes to me, that hee hath small vn<g ref="char:EOLhyphen"/>derstanding, and lesse conscience, if he doe not ioyne with those
+<pb facs="tcp:1947:15"/> that haue rent themselues from our Church commonly called the <hi>Brownists.</hi> Many such doctrines they haue in their wri<g ref="char:EOLhyphen"/>tings, and some more dangerous: but these are sufficient to prooue that for which they are alledged.</p>
+                  <p>For these and such like doctrines of theirs, together with the exclamings and disgracings of the persons of many learned men, both Bishops and others, withall manner of vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uperous words, hath drawne a multitude of poore simple people from the Church, into this schismaticall separation to their vtter de<g ref="char:EOLhyphen"/>struction, some by gallowes, some by imprisonment and some by banishing themselues vnforcedly. God direct all his Elect to discerne of such seducing doctrines, and to avoyde them, and make vs of one minde, and iudgement in approouing of his ordinances in the Church of <hi>England.</hi> That so we may with<g ref="char:EOLhyphen"/>out grudging or dissenting bitterly one from another (as the manner of some is) ioyne together in the same ordinances of God, with peaceable &amp; quiet consciences like true members of the bodie of that Church whereof Christ is the head. Because those ordinances are approoued out of the Epistles of <hi>Paul</hi> to <hi>Timothy,</hi> and <hi>Titus,</hi> to be of God &amp; by the iudgement of all the Churches of God in this world, for a thousand fiue hun<g ref="char:EOLhyphen"/>dred yeers and more. Who neuer knew other ordinances: nor gaue other exhortations from those Scriptures in that mat<g ref="char:EOLhyphen"/>ter of gouernment, as Bishop <hi>Cranmer,</hi> Bishop <hi>Hooper,</hi> Bishop <hi>Latimer, Farrar, Ridly, Philpot,</hi> doe testifie which practise and iudgement of the whole Church of Christ appro<g ref="char:EOLhyphen"/>ued by these our late Martyrs (who liued and dyed vnder the same gouernment) it is more then presumption to reiect, except men doe thinke themselues wiser in this troublesome age, then all the world were before them. And except they think that all the godly Histories left for the helpe of posterities, be of no more credite than <hi>Guy a Warwicke,</hi> or <hi>Scoggins</hi> iests, which were too profaine a conceit for any Christian man.</p>
+                  <p>You willed me not to be an enemy to those men which haue deuised, and doe fauor this new Discipline. I protest before him that searcheth the heartes and reines, that I honor many
+<pb facs="tcp:1947:15"/> of them for their gifts, and paines in the Church of God: and was easily drawne to receiue their iudgement in this point, to like of it, and to walke in it, although to my very great hinde<g ref="char:EOLhyphen"/>rance, vntill I saw it confuted by a manifest truth, confirmed by the Scriptures, Fathers, and themselues, who diuers of them haue both by their writings and practise confuted their owne former positions (touching these things) I me<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e both strangers, and men of our owne nation. Now I beseech you once more, though not for my sake which am (as you say) with<g ref="char:EOLhyphen"/>out all knowledge &amp; vnderstanding, yet for the church of Gods sake, and for those learned mens sakes, from whose works &amp; at whose feet I haue learned these things (euē as <hi>Paul</hi> did the law at the feete of <hi>Gamaliell</hi>) &amp; especially for your own good, con<g ref="char:EOLhyphen"/>sider indifferently of these things, and then returne mee the christian censure of them. The Lord make you able to giue a true iudgement, to whose protection I commit you, and your charge. Dated this <hi>17.</hi> of <hi>August. 1599.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Your poore brother in the Lord <hi>Peter Fairelamb.</hi>
+                        </hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <q>Let the Reader iudge, not according to the out<g ref="char:EOLhyphen"/>ward appearance, but iudge righteous iudge<g ref="char:EOLhyphen"/>ment. <bibl>Iohn 7.24.</bibl>
+                     </q>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>Aprill. 1599.</hi> In the Play of Sainct. Cruss.</head>
+                  <p>MAister <hi>Bern-here,</hi> since I last wrote you an answere to the reprochfull Letter, wherein you published mee to bee vsed in <hi>Barbary</hi> as a spie, and an Informer, I haue receiued three Letters from you, and a booke pretending to answere that short discourse which I sent you at your request. How it is performed, let the indifferent iudge. I was fully purposed to haue giuen ouer this contending with you, hauing neither lust, nor leasure to employ my wittes that way, as you might
+<pb facs="tcp:1947:16"/> wel perceiued by my silence to your <hi>2.</hi> Letters and your booke. Perceiuing also my disgrace to be sought by sending your Let<g ref="char:EOLhyphen"/>ters open to my chiefest friendes: whose affections you haue drawē before to approoue wholy of your Iudgemēt, especially one of them: But I hope the Lord will make manifest, ere long, his truth to them all that are thus seduced: in the meane time ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ther you nor they shall want my prayers to effect it. In this your Letter you often vrged me to answere you, and likewise in your booke, and in the other large Letter. Truely M. <hi>Bernhere,</hi> you haue (me thinkes) no reason so to doe, the match being so vnequall in many respects. For if my know<g ref="char:EOLhyphen"/>ledge were comparable to yours, as (the Lord knoweth) it is inferior to many thousands of my brethren: yet you should con<g ref="char:EOLhyphen"/>sider that I haue a great charge of small children to sustaine by mine hand-labour, hauing no other helpe at all left, from which, me thinks, you should not thus withdraw mee. In the last Letter you are offended that I should write <hi>I. W.</hi> What I conceaue of your booke: but I must craue your patience to write both to you and others what I conceiue in these cau<g ref="char:EOLhyphen"/>ses. You are likewise offended, that I should write to him that you are so farre from confessing your ouersight imagi<g ref="char:EOLhyphen"/>ning me to be a spie and an informer, that you perswade me, if I be not, to become one. You demande of me, if you perswade me to be a busie body, and an informer. I answere, you doe. Your words be these: <hi>If you beleeue that Discipline to be a devise of men, &amp; the gouernment by Bishops to be Gods ordinance, then surely (say you) vnlesse you would betray the truth of God, and be a boulsterer of error &amp; fancie in the worship of God, yea, bee a foe to so many Country<g ref="char:EOLhyphen"/>men, by perswasion now in danger to be deeiued.</hi> Then I say you ought to stand against me, and others therin and also to informe of vs to the Magistrates of our Lande, to preuent the danger which by our vnlawfull courses in matters of reli<g ref="char:EOLhyphen"/>gion, &amp; Gods worship so many Englishmen might be brought into. Therefore to informe in such a case, &amp; vpon such grounds were no bad part, but the part both of a good subiect, and of a
+<pb facs="tcp:1947:16"/> good Christian. Thus much concerning the words, wherein you both send me word that you are about to deceiue her Ma<g ref="char:EOLhyphen"/>iesties subiects, and perswade me to informe against you in this matter: both which you denie in your last letter: at which I greatly maruell, and doe indeed impute it to your want of me<g ref="char:EOLhyphen"/>morie.</p>
+                  <p>You are likewise offended that I should write to <hi>Richard Ratcliffe</hi> (sometimes my seruant) how you and <hi>M. Iohnson</hi> conceiue of me. But you haue no reason so to be. For beeing by <hi>M. Iohnson</hi> falsely standered, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch by three letters (which here I haue by Gods prouidence) may appeare, and by you strongly suspected both in that matter, and others, as by your letters appeareth likwise. And seeing the affections of olde friends are drawne from me, I haue no man f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ter to acquaint with my griefe, that would minister any comfort to my affli<g ref="char:EOLhyphen"/>cted soule, than he, whom I brought vp in m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne house of a ladde: who must needs know my carriage better in seuen yeares ser<g ref="char:EOLhyphen"/>uice, than either <hi>M. Iohnson</hi> or you: and I doubt not will speake according to his knowledge, in defence of my credit a<g ref="char:EOLhyphen"/>gainst whomsoeuer. For although by following these trouble<g ref="char:EOLhyphen"/>some courses, I haue beene brought poore, and so remaine, whereby I haue not the credit with the rich men of the world, which you and others haue: yet I praise God, my carriage hath beene such towards all men, that if need required. I could bring the testimony, not only of my neighbours of the best sort, where I haue beene, and doe dwell, but of those who brought me vp in London: and of all others, with whom I haue dealt in worldly affaires, for my good behauiour. You are also not pleased, that I say you oppose your iudgement, and some others by you mi<g ref="char:EOLhyphen"/>staken against the Primitiue Church, and those that haue, and those that had succeeded them vntill this age. But that which I haue said is true, and now you iustifie it. For here you say, you bring reasons to prooue your Discipline lawfull, and to confute the contrarie, as you say in the booke: whereby, what doe you else conclude, but that so many hundred of learned Bi<g ref="char:EOLhyphen"/>shops, and most of them godly Martyrs, were ignorant of the sense of the Scriptures: yea euen since the Apostles times, and
+<pb facs="tcp:1947:17"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:1947:17"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:1947:18"/> had thrust out <hi>Christs kingdome</hi> (as you call it) <hi>to establish their owne deuises.</hi> For that this gouernment by Bishops, hath continued in the Church since the Apostles times, and so is according to the word of God, <milestone type="tcpmilestone" unit="unspecified" n="S"/>
+                     <note place="margin">See Eusebius, lib. 2. chap. 1. pa. 19. that Iames was Bishop of Ierusalem, and chap. 23. &amp;c.</note> and the practise of the Primitiue church. <hi>M. Fox</hi> out of all Ecclesiasticall hi<g ref="char:EOLhyphen"/>stories doeth affirme, who should be as well able to iudge, giuing himselfe wholly to y<seg rend="sup">e</seg> kind of studie, <milestone type="tcpmilestone" unit="unspecified" n="T"/>
+                     <note place="margin">That Marke was Bishop of Alex<g ref="char:EOLhyphen"/>andria, read Eusebius booke 2. chap. 24. page 35.</note> for seuen yeres to<g ref="char:EOLhyphen"/>gether, as much as any which is of your minde, no disgrace to either of them. And with him, agree <hi>Caluine</hi> and <hi>Beza,</hi> though you denie it twenty times, <milestone type="tcpmilestone" unit="unspecified" n="V"/>
+                     <note place="margin">That Titus &amp; Timothy were Bi<g ref="char:EOLhyphen"/>shops of Creta and Ephesus, read Euse<g ref="char:EOLhyphen"/>bius lib. 3. chap. 4. page 37. whose au<g ref="char:EOLhyphen"/>thoritie, I thinke, will beare downe all your seuen sheetes of paper, wrote to prooue the contrarie.</note> as is shewed in my first writing to you of this matter at large. And heere is that answered, where you demaund, how our Booke of Martyrs is become an olde wiues fa<g ref="char:EOLhyphen"/>ble. I wrote <hi>I.W.</hi> and doe indeede still affirme, that if your Booke doe defend a Truth, our Booke of Martyrs is worse than an olde wiues fable. For men doe read of <hi>Guy</hi> of <hi>War<g ref="char:EOLhyphen"/>wicke,</hi> and of <hi>Launcelet,</hi> one of the Knights of the Round fa<g ref="char:EOLhyphen"/>ble, of King <hi>Arthur,</hi> as of fables, and men giue no credit to them, and so can take little harme by them, except losse of time, which might be better bestowed.</p>
+                  <p>But men read the Booke of Martyrs, as a booke of credit, next to the booke of God. At least, I meane, that part which concerneth the state of the poore Churches, for <hi>300.</hi> yeares af<g ref="char:EOLhyphen"/>ter Christ. In which time, the Pope of Rome had no more au<g ref="char:EOLhyphen"/>thoritie, <milestone type="tcpmilestone" unit="unspecified" n="W"/>
+                     <note place="margin">See book of Mar<g ref="char:EOLhyphen"/>tyrs, last Edition, page 8.</note> than other Popes had: for the name was then common to all Bishops, saith <hi>M. Foxe.</hi> And whereas you doe maruell that I will alleadge the Booke of Martyrs, seeing <hi>M. Foxe</hi> (as you say) hath many things against the gouernment of our Church by Bishops. I maruell much more, why you should
+<pb facs="tcp:1947:18"/> dislike the alledging of it, seeing it is the vniuersall iudgement of Gods Church, whose practise together with their iudge<g ref="char:EOLhyphen"/>ment, is wholy against you, as all Histories doe witnesse. For his iudgement concerning Arch<g ref="char:EOLhyphen"/>bishops and Bishops, <milestone type="tcpmilestone" unit="unspecified" n="X"/>
+                     <note place="margin">Read booke of Martyrs, page 15. last edition; there Master Fox af<g ref="char:EOLhyphen"/>firmes, that the Offices of Arch<g ref="char:EOLhyphen"/>bishops, Bishops, Priests and Dea<g ref="char:EOLhyphen"/>cons, are lawfull by the word of God, and the practise of the Pri<g ref="char:EOLhyphen"/>mitiue church. I hope he will bee no more abused against Bishops authoritie.</note> Reade <hi>15 page,</hi> neither is there any thing in it, against our Churches as you say. For where any of the Martyrs which suffered vnder Antichrist wrote or spake a<g ref="char:EOLhyphen"/>gainst Bishops they are to bee vnderstood of the Bishop of Rome, and his adherents, neuer meaning thereby to disgrace those Bishops that professed the truth. Let <hi>Caluine</hi> and <hi>Beza</hi> speake for all the rest. <hi>Caluine</hi> doth acknowledge him to bee subiect vnto the greatest curse or casting to the deuill y<seg rend="sup">e</seg> may be, which shall not be subiect to the Bishop of <hi>Geneua,</hi> if hee will leaue his popish religion, and confesseth in many other places, that this order came from the Apostles, as I haue shewed in my former writing.</p>
+                  <p>
+                     <hi>M. Beza</hi> hath likewise cleered this point, both for himselfe and his fellowes, not onely in his booke against <hi>Sarauia,</hi> speak<g ref="char:EOLhyphen"/>ing of the Church of England by name, but more particularly in his letters to the L. Archbishop of <hi>Canterburie,</hi> subscribed by himselfe and <hi>Sadeel,</hi> in the name of the whole Ministrie of <hi>Geneua:</hi> wherein he professeth that it troubled them much, that any man should apply that which they had written against the Antichrist of <hi>Rome,</hi> to the Bishops professing the Gospell, and wisheth that such arrogancie may be farre from them. Let vs heare no more of <hi>Caluin</hi> and <hi>Beza,</hi> I pray you, for you see that which I said to be true: that whensoeuer any learned men did oppose against them in this point, they yielded to truth, shewing themselues to be conscionable men. And I pray to God that others which are of that humour, would herein followe their example. To these might be added, the authoritie &amp; iudge<g ref="char:EOLhyphen"/>ment of many other late writers, but <hi>M. Foxe</hi> shall conclude this point, where hee writeth thus: Setting downe what
+<pb facs="tcp:1947:19"/> gouernment the Scriptures, and the practise of the Primitiue Church approoueth, affirming that the Church of England hath the same in vse: his words be these, <hi>page 15.</hi> before cited. <hi>We take not away</hi> (saith he) <hi>the distinctions of ordinarie de<g ref="char:EOLhyphen"/>grees, such as by the Scriptures bee appointed, or by the Primitiue Church allowed:</hi> as first, Patriarkes or Archbi<g ref="char:EOLhyphen"/>shops: secondly, Bishops thirdly Ministers: fourthly, Deacōs: for of these foure we read. Then Laie Elders were not known to the first Churches, by <hi>M. Foxe</hi> his iudgement. In which fower degrees, as we grant diuersitie of office, so we, speaking of the Church of England, doe admit in the same diuersitie of dignity (away with equalitie) neither denying that which is due to each degree, nor yet maintaining the ambition of any singu<g ref="char:EOLhyphen"/>lar person. For as wee giue to the Minister place aboue the Deacon to the Bishop aboue the Minister, to the Archbishop aboue the Bishop, &amp;c. Here is, I say, neuer a Lay and vn<g ref="char:EOLhyphen"/>preaching Elder and yet <hi>M. Foxe</hi> saith, this is to keepe an or<g ref="char:EOLhyphen"/>der duely and truely in the Church, and so doth <hi>Augustine</hi> by him cited. Let vs heare no more of <hi>M. Fox</hi> I pray you for you see that he hath giuen you the bagge, in his owne direct iudge<g ref="char:EOLhyphen"/>ment, grounding himselfe, as I will say, vpon the word, and purest Churches of God.</p>
+                  <p>Concerning the Lord <hi>Cobham</hi> and M. <hi>Swinderly</hi> whom you mention as friends to your cause I say they neuer dreamed of this discipline you vrge, nor euer withstood the authoritie of Bishops maintaining the truth of Christs Gospell as ours doe. They dealt against the Pope and his vsurped authoritie, according to their knowledge which was far short, God know<g ref="char:EOLhyphen"/>eth, of that perfection, our Bishops are come vnto, and doe by the mercie of God both professe and preach. Let the storie of <hi>Swinderley,</hi> though he were a Scholler and a Priest, wit<g ref="char:EOLhyphen"/>nesse.</p>
+                  <p>The like answere you must receaue to <hi>Iohn Claidons</hi> se<g ref="char:EOLhyphen"/>cond article, booke of <hi>Martyrs page 588.</hi> which you alledge as a proofe that our Bishops are <hi>Antichristian,</hi> and the seates of the beast. But I wonder that you would once conceiue, that any in his right wits would beleeue you. These are
+<pb facs="tcp:1947:19"/>
+                     <hi>Iohn Claidons</hi> wordes: <hi>Artic. 2. That Arch-bishops and Bishops indifferently are the seats of the beast Antichrist, when Antichrist sitteth in them, and raigneth aboue other people in the darke cause of errors, and heresies maintai<g ref="char:EOLhyphen"/>ned by them.</hi> Now what kinde of reason is this. <hi>Clayden</hi> saith and truly. For I know no Protestants differ from him in so saying, that al those <hi>Archbishops,</hi> or <hi>Bishops which main<g ref="char:EOLhyphen"/>tain the idolatrous Religiō of Rome, &amp; the vsurped power of the pope, are the seats of Antichrist.</hi> Therefore all those Archbishops and Bishops, that professe the glorious Gospel of Christ, and renounce the vsurped power of the Pope, are the seates of Antichrist. If honest <hi>Iohn Clayden</hi> heard you thus straine his wordes, contrarie to his true meaning, hee would thinke the worse of your new discipline whiles hee li<g ref="char:EOLhyphen"/>ued. I beleeue, a mā may truly say that all those Lords, knights and Gentlemen, which haue renounced her Maiesties lawfull authoritie, and ioyned with that Irish Traytor <hi>Tyrone;</hi> are indifferently enemies to her Maiestie: but he were a bad or mad <hi>Logician</hi> that would hereupon conclude, that all the Lordes, Knights &amp; Gentlemen in <hi>England, Scotland,</hi> and the whole world were enemies to her Highnesse. This is not farre from <hi>Tom Scull</hi> his argument. Concerning the Lorde <hi>Cob<g ref="char:EOLhyphen"/>ham,</hi> I beleeue that he is so far frō releeuing your cause in this point, that if his words might be taken, hee cleane confutes it. For in his last answere before <hi>Thomas Arundell,</hi> Archbishop of <hi>Canterburie</hi> and others. Hee confesseth that there were many godly Bishops in <hi>Rome</hi> before <hi>Antichrists time,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="Y"/>
+                     <note place="margin">See book of Mar<g ref="char:EOLhyphen"/>tyrs pag. 518. in the Mar<g ref="char:EOLhyphen"/>gent of the last e<g ref="char:EOLhyphen"/>dition.</note> whereof <hi>26.</hi> were <hi>Martyrs,</hi> foure excepted. Maister-<hi>Fox,</hi> setteth downe their names in his first booke.</p>
+                  <p>You wonder that I should write, that there was no Pa<g ref="char:EOLhyphen"/>pist nor Poperie, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n the time of the first ten persecutions, nor long after, but I still affirme it, grounding my selfe vpon M. <hi>Fox,</hi> whose whole studie for many yeeres was, to publish the truth of all Histories, Councels and Fathers, who was as well able, I beleeue to iudge in that case, as any that oppose themselues against him. Now he diuides the Church in<g ref="char:EOLhyphen"/>to her sundry estates before the Apostacie. The first <hi>300,</hi>
+                     <pb facs="tcp:1947:20"/> yeeres, hee termes the suffering time, the next three hundred yeeres the growing time, the third three hundred yeers, the de<g ref="char:EOLhyphen"/>clining time. I hope your wonder is now at an ende. For I doe still affirme vpon this ground, that for fiue or sixe hundred yeeres, there was neither Pope nor Papist as wee doe nowe vnderstand Pope and Papist: And as for Poperie, which you say was in the tenne first persecutions, I thinke you can hardly prooue that any one Citie, or Church did for two or three hundred yeeres after that, if not moe, professe that Religion wholy which is now taught in <hi>Rome:</hi> nay, I am sure, you cannot. But if by Poperie you meane any error or corruption in doctrine. I doe withstand you. For so wee may say there was Poperie in the time of Christ, yea and long before, euen from the beginning, which were absurd. Concerning Pope<g ref="char:EOLhyphen"/>rie I take it (vnder correction) to be the huge heape and dung<g ref="char:EOLhyphen"/>hill of errors and traditions, partly consisting of the errors of the Fathers, and partly of the deuises and inuentions of the latter Popes of <hi>Rome</hi> contrary, and besides the Scriptures in many yeeres patched together, and confirmed by the Pope to be obserued, vnder paine of their heauie curse, and crymation of heresie, Lollardie, and what other name of reproch soeuer, vpon all those that submit not themselues ther<g ref="char:EOLhyphen"/>vnto in the Apostaticall Church with an immunitie of disobe<g ref="char:EOLhyphen"/>ence to the holy and sacred word of God &amp;c. that the Scriptures might be fulfilled. <hi>2. Thes. 4.23.</hi>
+                  </p>
+                  <p>Next you affirme, that you desire to conforme the Mer<g ref="char:EOLhyphen"/>chants, to the French and Dutch Church. To which I say but this, that seeing they are English subiects, you should haue done much better to haue conformed them to the godly procee<g ref="char:EOLhyphen"/>dings of their Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce and Church at home, where by Gods grace, they meane to spend their dayes, and from which I hope they will not be easily drawen.</p>
+                  <p>But you take occasion to affirme that discipline to be Gods perpetuall Ordinance, because her Maiestie and the Bishops, as you said (as though they were her parteners) doe suffer it in <hi>London.</hi> But you had forgotten that <hi>Mully Hammet</hi> suf<g ref="char:EOLhyphen"/>fers you to professe the Gospel in <hi>Moroccus,</hi> and the Masse
+<pb facs="tcp:1947:20"/> is likewise suffred there, and yet the King neither approoues the one nor the other. And if her Maiestie should vpon occasi<g ref="char:EOLhyphen"/>on (as sometime she hath done) suffer the Masse to bee vsed by Strangers in <hi>England,</hi> it were a sawsie part for any priuate Subiect (as I take it) to withstand her or charge her to ap<g ref="char:EOLhyphen"/>proue of it therein. But what is her suffering of them in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to you which affirme that discipline, to bee of Gods per<g ref="char:EOLhyphen"/>tual ordināce, &amp; our by her highnesse established to be Antichri<g ref="char:EOLhyphen"/>stian and diuelish, as many of you haue written. But the <hi>French</hi> and <hi>Dutch</hi> Churches neuer held any such thing, wit<g ref="char:EOLhyphen"/>nes <hi>Caluine</hi> and <hi>Beza,</hi> as is beforesaid. And though hir Maie<g ref="char:EOLhyphen"/>stie and the State were not so precise at their first comming, as to examine them of euery particular, seeing they were driuen out of their countrie, for the Gospel sake: yet some of them haue, at least their Teachers (as I haue heard) subscribed to her Highnes godly proceedings, like peaceable Christian brethren: and haue done it of purpose to satisfie her Highnes, that they were no fauourers of any that refused to doe the like.</p>
+                  <p>Whereas you will me to send you order, how to deliuer the Sacraments: I answer, as <hi>Elutherius</hi> Bishop of <hi>Rome</hi> did to King <hi>Lucius</hi> of <hi>England: You haue Gods Booke, there may you see how.</hi> But this withall, if you in least make mee a Pope, I say it is against your profession: and if you be in ear<g ref="char:EOLhyphen"/>nest, when you come home, resort to your Ordinarie, and he no doubt will aduise you to minister according to her Maiesties lawes: and withall, admonish you of your fault, for presuming to oppose your selfe against a Church established according to Gods word, and the practise of all Antiquitie, before you knew how to administer according to your calling.</p>
+                  <p>Concerning your booke, although I was purposed not to haue written you any more, for the reasons aforesaid: yet being by you so earnestly prouoked, I wil take a little paines to shew you my iudgement briefly, to some of your Allegations, in cer<g ref="char:EOLhyphen"/>taine marginall notes. And if you desire any more generall and large answere, I must referre you to those, to whom it be<g ref="char:EOLhyphen"/>longs, and whose disgrace you doe especially labour in it, insi<g ref="char:EOLhyphen"/>nuating that they misalleadge the Fathers, and the new wri<g ref="char:EOLhyphen"/>ters:
+<pb facs="tcp:1947:21"/> and are con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rary to themselues, especially father <hi>Bilson.</hi>
+                  </p>
+                  <p>But one thing in your Booke I much muse at, Namely, why you beare me in hand, that Bishop <hi>Hooper</hi> and Bishop <hi>Iewell</hi> are approouers of your Discipline, and enemies to the authoritie of bishops, which I dare say they neuer dreamed of, at least not of approouing your Discipline. Truly, if I were driuen to so poore a shift for the defence of your Discipline, I would leaue it in the plaine field to seeke a new proctor. I haue read bishop <hi>Hooper,</hi> vpon the eight Commandement very of<g ref="char:EOLhyphen"/>ten, and there is no one word at all that you alledge out of him touching the authoritie of Bishops, either concerning bad Bi<g ref="char:EOLhyphen"/>shops or good, except you will reason thus. Bishop <hi>Hooper</hi> reprooues other Bishops for not preaching so oft, and so care<g ref="char:EOLhyphen"/>fully as they should and therefore your Discipline is lawfull. Or thus, Bishop <hi>Hooper</hi> saith, a Bishop should bee but bishop of one Citie or Bishopricke as hee was, therefore Bishops are Antichristian and vnlawfull. But (as little wit as I haue) to reason thus is without reason. For if a Preacher at <hi>Pauls crosse,</hi> reprooue the Iudges for corruption in iudgement or iu<g ref="char:EOLhyphen"/>stice, doth it follow thereupon that hee denies the Magistrates lawfull authoritie. The like answere you must receiue to bi<g ref="char:EOLhyphen"/>shop <hi>Iewell,</hi> and Doctor <hi>Raynolds,</hi> who (you say) approoues of your Discipline. For thus I finde bishop <hi>Iewell,</hi> giue his censure against it, Namely, that it is an new assertion of yong<g ref="char:EOLhyphen"/>lings. It is but wantonnesse (saith hee) correction will helpe it, doe you not thinke that God will call you to account for thus abusing his holy Seruants, by perswading the world that they fauoured your fancies, and that (as it is to bee feared) against your consciences. <milestone type="tcpmilestone" unit="unspecified" n="A"/>
+                     <note place="margin">See Eu<g ref="char:EOLhyphen"/>sebius lib. 2. chap. 23. page. 32.</note> But M. <hi>Raynolds</hi> you alledge oft, who af<g ref="char:EOLhyphen"/>firmeth that <hi>Iames</hi> was not the bishop of <hi>Ierusalem.</hi> For that were to preferre him out of the hall into the kitchin (say you) For answere heerevnto I say, that it is like that <hi>Cle<g ref="char:EOLhyphen"/>mens</hi> and <hi>Aegesippus</hi> (who liued in the next age to the Apostles) should know as well as M. <hi>Reynolds,</hi> (no disgrace to that learned and godly man) &amp; they affirme him to be bishop of that citie, as M. <hi>Fox</hi> cites them, <hi>page. 30.</hi> And so doe all the Fathers of the <hi>Primitiue church,</hi> as farr as I can learne,
+<pb facs="tcp:1947:21"/> but you (as it seemes) are in conceite that men will beleeue your writings without all examination: But beleeue mee, we haue done so too long, or els I see not why you should al<g ref="char:EOLhyphen"/>ledge M. Doctor <hi>Raynolds,</hi> against the lawfull authoritie of our Bishops, who howsoeuer be thinks, <hi>Iames</hi> being an Apo<g ref="char:EOLhyphen"/>stle could not be a bishop of <hi>Ierusalē:</hi> yet is he so full for the au<g ref="char:EOLhyphen"/>thoritie of our Bishops, that I doe wonder men are not asha<g ref="char:EOLhyphen"/>med to vse his name and his workes for defence of such fancies. I haue often read that booke against M. <hi>Heart,</hi> whereof you make mention, and no man can be more flat against the deuise of the equalitie of Pastors then hee is, If ye beleeue not me, yet beleeue himselfe, where hee writes thus: <hi>In the Church of Ephesus, though it had sundry pastors, or Elders to guide it,</hi> yet among those was one chiefe, whome our Saui<g ref="char:EOLhyphen"/>our calleth the Angel of that Church. And this is he whom afterwards in the <hi>Primitiue church,</hi> the Fathers called Bi<g ref="char:EOLhyphen"/>shop. Thus you see these learned men (if euer they fauoured it) haue taken their leaue of your deuise:</p>
+                  <p>M. Doctor <hi>Fulke</hi> is likewise abused by you where you oft make him a paterne of your conceit if not (as I say) against your own conscience, <milestone type="tcpmilestone" unit="unspecified" n="B"/>
+                     <note place="margin">Fulke in his cōfu<g ref="char:EOLhyphen"/>tation of the An<g ref="char:EOLhyphen"/>notatiōs on the Remish Testa<g ref="char:EOLhyphen"/>ment.</note> yet against his expresse words and mea<g ref="char:EOLhyphen"/>ning. And let the world iudge if I said not right before. That when soeuer any of our new Writers speake against Bishops in generall, they are to be vnderstood to meane the Pope, and such bishops as maintaine his false Religion and vsurpation, which I would to God, poore people in these dayes could wa<g ref="char:EOLhyphen"/>rily consider. For it should keepe them from this fancie of e<g ref="char:EOLhyphen"/>qualitie, which now by the abuse of these mens workes they gape after. But to his words: <hi>Amongst the Clergie</hi> (saith he) <hi>for order and seemely gouernment, there was alway one principall &amp;c. which roome Titus exercised in Creta, and Timothie in Ephesus &amp;.</hi> Truly M. <hi>Bern-here,</hi> the al<g ref="char:EOLhyphen"/>ledging of these men is so grosse an ouersight, that it makes me mistrust many other of your allegations, <milestone type="tcpmilestone" unit="unspecified" n="C"/>
+                     <note place="margin">Iewell.</note> and authors which I haue not means to peruse. For this may be as a <hi>1000.</hi> witnes<g ref="char:EOLhyphen"/>ses against you, Namely, <milestone type="tcpmilestone" unit="unspecified" n="D"/>
+                     <note place="margin">Hooper E. Ray<g ref="char:EOLhyphen"/>nolds.</note> that one of them liued and dyed a Bishop, and one of them a most godly Martyr, the other (also is yet aliue) haue their published workes, to confute that
+<pb facs="tcp:1947:22"/> which you and others would father vpon them.</p>
+                  <p>Now what an horrible presumption is it, to thinke that such excellent learned men, who take such paines in writing and preaching for the spreading and defence of the Gospell, and one of them gaue his life for it in the flaming fire, should liue all their liues in knowne sin, and die without repentance, name<g ref="char:EOLhyphen"/>ly in an Antichristian calling, which they might easily haue bin ridde of if they (as you say) had so esteemed it.</p>
+                  <p>And whereas you say in the booke, <hi>page. 4.</hi> that I am one of my newe Maisters haue disgraciously stinged Maister <hi>Calvine.</hi> I answere that you haue abused vs both. For where as you charge these bookes. The Suruay of Disci<g ref="char:EOLhyphen"/>pline, and the perpetuall gouernment by mee alledged to be bit<g ref="char:EOLhyphen"/>ter and sharpe, and take it in ill part, that M. <hi>Caluins</hi> iudge<g ref="char:EOLhyphen"/>ment in this matter is refused, which you say greeueth you.</p>
+                  <p>This you must take for answere, namely that it greeueth o<g ref="char:EOLhyphen"/>thers as much to see you and others of your minde reiect the whole Church of God for <hi>1500.</hi> yeeres, and all the godly Fa<g ref="char:EOLhyphen"/>thers thereof with much more sharpnesse and bitternes. Bring the consent of the whole Church against you, and it is wickedly termed the moouing &amp; summoning of Hell, by M. <hi>Cartwright.</hi> Booke, <hi>2. page 513.</hi> Bring the Fathers which liued <hi>100.</hi> yeers after Christ, and the alledging of their workes is by him termed a raking in the ditches, lib. <hi>1. page 114.</hi> And as for the learned men now liuing, your companions in this busines haue sought their vtter disgrace, by publishing them in print to the worlde, to bee a conuocation house of deuils, like incar<g ref="char:EOLhyphen"/>nate diuels, Bishops of the diuels. Bishops (saith one of you) are cogging and coosening knawes. They will lie like dogs. Bishops (saith another Reformer) are proude, po<g ref="char:EOLhyphen"/>pish, presumtious, palterie, pestilent, pernitious Prelates: shamelesse and wainscot faced Bishops like beasts. The worst Puritane (saith an other) is an honester man, then the best Lord Bishop in Christendome, If you know not where those blasphemous reproches, and hellish taunting tearmes are written, I can show you with a wet finger. And now I pray you, compare these your reformed Bookes defending your ho<g ref="char:EOLhyphen"/>ly cause, with the bookes by me cited, and tell mee in your con<g ref="char:EOLhyphen"/>science,
+<pb facs="tcp:1947:22"/> which of them are most sharpe &amp; bitter. As for that re<g ref="char:EOLhyphen"/>uerend learned man M. <hi>Caluin.</hi> I for my part neuer sought his disgrace in any thing (God is record) except the refusing his iudgement (where he refuseth the iudgement and practise of the Primitiue Church, as Master <hi>Fox</hi> and himselfe also prooueth) be a disgrace vnto him, and then both hee and you must pardon me and others, But you in thus writing (I see well) seeke my disgrace, as likewise in your letters directed to mee, but sent o<g ref="char:EOLhyphen"/>pen to those that were my best friends, stuffed full of false sur<g ref="char:EOLhyphen"/>mises, wherein although you cannot (I praise God) discredite me, yet you haue done me more hurt in withdrawing the af<g ref="char:EOLhyphen"/>fections of my friends from me this hard time, then I feare you wil doe me good in hast. But let that passe, if you account the refusing of Maister <hi>Caluines</hi> iudgement when hee dissents from the whole Church of <hi>Christ,</hi> as in some of his workes at some time he hath done, and the modest refelling of his argu<g ref="char:EOLhyphen"/>mentes by men, as well learned as himselfe, both of our owne nation &amp; strangers, as <hi>Melancthton, Camerarius, Bu<g ref="char:EOLhyphen"/>cer, Erasmus, George prince Anhat, Zanchius,</hi> and many o<g ref="char:EOLhyphen"/>thers, together with the confessiōs &amp; practise of many reformed Churches <hi>24.</hi> whereof I haue set downe in my last Letters to you, besides <hi>35.</hi> free Citites as the <hi>Suruay</hi> sheweth, <hi>page 362.</hi> If you acount, I say, this modest refussng or refelling of his errors to bee a disgracefull stinging of him, I pray you what would you haue men to thinke of him that writes thus vnaduisedly, vnchristianly and bitterly. That all they (with<g ref="char:EOLhyphen"/>out exception) that resist his gouerment by vnpreaching elders haue no more religion then <hi>Doggs,</hi> and are worse then Turks or Iewes: yea or brute beasts yea that they haue no sure religiō: and lastly that those churches kingdomes and people are filthy villaines which resist it. For my part I vtterly dislike this vn<g ref="char:EOLhyphen"/>ciuill and more then outragious deprauation of any professing Christianity, &amp; do verily thinke that our most gratious Qeene and so many religious Princes, learned Bishops and Pastors, vniuersities and godly reformed Churches, as alwayes haue and at this time doe refuse that Eldership, as a meere deuise of mans braine, to be better esteemed of then <hi>Dogs, Turkes, &amp;c.</hi>
+                     <pb facs="tcp:1947:23"/> As those churches following, the Church of <hi>England, D<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>marke, Norway, Sweuia, Germanie,</hi> for the most pa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Churches within the Dutchie of <hi>Saxonie,</hi> of <hi>Brunsw<gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi> &amp; <hi>Luneburgh.</hi> Also the Dutchie of <hi>Megalaburgh,</hi> of <hi>Wit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>burgh,</hi> all the Churches within the Countries of the Mar<g ref="char:EOLhyphen"/>quesse of <hi>Brandeburgh,</hi> and the Marquesse of <hi>Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>de,</hi> all the Churches, within the gouernment of the Erldome of <hi>He<gap reason="illegible" resp="#keyers" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>burgh,</hi> the Erldome of <hi>Swartzenbergh,</hi> the Erldome of <hi>
+                        <gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>ningh,</hi> the Erldome of <hi>Hannawe,</hi> the Erldome of <hi>Orting<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> the Erldom of <hi>Mansfield,</hi> the Erldom of <hi>Stalbergh,</hi> the Erl<g ref="char:EOLhyphen"/>dom of <hi>Gliche, &amp;c.</hi> as in the twentieth chapter of the Sur<g ref="char:EOLhyphen"/>uay of Discipline, <hi>page 362.</hi> together withall the Martyrs of the Primitiue Churches, and our late Martyrs, which <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ed in that holy calling, which you count antichristian and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>uilish as is shewed. As Archbishop <hi>Cranmer,</hi> Bishop <hi>Rid<g ref="char:EOLhyphen"/>ley,</hi> Bishop <hi>Hooper,</hi> Bishop <hi>Farrar, Latemer, Philpo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> with many others. I say once againe, that I suppose how that all these princes Churches and Martyrs, both haue and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> deserue to be better esteemed then Doggs, Turkes, Iewes, brute beasts, or filthy villaines. And if you would not a<g ref="char:EOLhyphen"/>gaine call it a disgracefull stinging of him, I should ve<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> thinke that Maister <hi>Caluin,</hi> might haue beene better exerci<g ref="char:EOLhyphen"/>sed then when he studied, that part of his Sermon and like wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> when he preached it, seeking to disgrace as godly as euer w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in <hi>Geneua.</hi> And so might he that did translate that opprobri<g ref="char:EOLhyphen"/>ous part of it into English, whosoeuer hee was, and I hope <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> good subiects are of my minde. Thus you see that in striking at me, and at those reuerend and learned fathers of our church<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> by whome I am taught (as you say) you haue missed vs all, and wounded some of the best friends both at home and abroad to the very heart. And you may see that the measure which you meat falsely to others, is iustly returned to you, and your friends againe, that the Scriptures might be fulfilled, <hi>Luke 6.38.</hi>
+                  </p>
+                  <p>Concerning the ciuill authority of our Bishops at which you gird so often both in your booke &amp; Letters. I haue answe<g ref="char:EOLhyphen"/>red it in my last Letters &amp; cannot by the reading of your books
+<pb facs="tcp:1947:23"/> conceaue how the worde of God, should become so partiall as to allow Maister <hi>Caluine</hi> and <hi>Beza,</hi> to bee of the coun<g ref="char:EOLhyphen"/>cell of s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ate in <hi>Geneva,</hi> and to denie it to the Arch-bishop of <hi>Canterbury,</hi> or other Ministers in <hi>England.</hi> For meaner men, then <hi>Caluine</hi> and <hi>Beza</hi> are Magistrates at <hi>Geneua,</hi> namely, all their lay Elders, and M. <hi>Beza</hi> is, and <hi>Caluine</hi> was, whiles <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e liued of the Councell of State. By vertue whereof it was as I haue said in my last letter that he did call before him certaine persons, for dancing in one <hi>Balthasar</hi> his house in <hi>Geneua.</hi> Among whom was one <hi>Henrich</hi> a Mini<g ref="char:EOLhyphen"/>ster, who labored to defend that honest pastime, if any were. But they all denying it M. <hi>Caluine,</hi> by vertue of his ciuill office, forced them to take an othe. This the Minister refused to doe, holding it vnlawfull and alledged the place which M. <hi>Cart-wright</hi> did vnto the Commissioners in London: <hi>A<g ref="char:EOLhyphen"/>gainst an Elder receaue none accusation,</hi> but vnder two or three witnesses, which M. <hi>Caluine</hi> affirmeth to be a pleasant lest, and forcing them by oth to confesse, committed them all to prison, one except being one of the foure <hi>Syndicles</hi> or chiefe Magistrates of the citie, and depriued <hi>Henrich</hi> the Minister. Now why a Bishop may not as lawfully bee a counseller in England, and take othes in lawfull causes, and commit to prison if the Prince will, as M. <hi>Caluine,</hi> or <hi>Beza</hi> in <hi>Geneua,</hi> (as I said) I see not any reason. But your Letter put mee in minde, of the <hi>26. chapter of the suruay of your Discipline,</hi> which prooueth that what you condemne in others you doe ap<g ref="char:EOLunhyphen"/>prooue and allow in your selues.</p>
+                  <p>Where I said, that M. <hi>Caluine</hi> thought so honorably of the law of <hi>Geneua,</hi> that he told certaine offenders in that Citie that except they would be subiect to the lawes of the Citie, they must build thē a citie by thēselues, &amp; dwel in it, you answer, what is that to our laws, seeing their laws are all approued by Gods word: he did wel say you, as though their laws were al spiritu<g ref="char:EOLhyphen"/>all, &amp; ours carnal. Oh blessed cōceit of holy <hi>Geneua.</hi> I feare it wil shortly prooue an other idol <hi>Rome</hi> &amp; people fall to worship it as a church that cannot er, wel I see you are a partial iudge, and therefore shall not bee admitted by my consent to censure lawes of your prince and count<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey.</p>
+                  <pb facs="tcp:1947:24"/>
+                  <p>you must beare with mee, for indeed your snuffing at the <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ning of her Maiesties Lawes liketh mee not I promise y<seg rend="sup">•</seg>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+                  <p>In your last letter, you will me not to trouble you any <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with my new Maisters bookes, neither to tell you of Fat<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> which M. <hi>Fox</hi> mentioneth, councels, nor antiquities, bec<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> I do not vnderstand their owne workes and language. You might as well haue forbidden me, &amp; other men the Scriptu<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> for I can vnderstand no Hebrew nor greeke. Your slender <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> count of the learned Fathers of the Primitiue Church, ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> me wonder, seeing all the godly in the world hath them in high reuerence, saue men of your humor. Indeed, when I read that part of your letter, it put me in minde of a friend of your co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ceit, namely, M. <hi>Iacob,</hi> who hath (to vse your owne term<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>) patched together a certaine Pamphlet against that learned father Bishop <hi>Bilson</hi> his sermōs of Christs sufferings. Where the Bishop bringing the testimonies of al y<seg rend="sup">e</seg> fathers, for <hi>1500.</hi> yeres hee very presumptuously opposeth his owne iudgement against them all in that matter, as you doe in this, and re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t them in this malapert manner. If (saith hee) you see the F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>thers variable or against vs, thinke it not strange, for you must not take them as iudges of the Scriptures sense. Con<g ref="char:EOLhyphen"/>ceit is much, belike to iudge of Scriptures sense, is proper to him and his friend. But if one of another humor should <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> slightly reiect a few late writers, fauouring your discipline in learning and godlinesse farre short of those reiected Fathers, hee would be thought a presumptuous hinde, and an arrogant companion, I perswade my selfe. And sure if he or any other shall suffer themselues to bee so farre seduced by Sathan, as to imagine they haue another spirit to reueale newe truthes, which the Fathers of the Primitiue knew not, I feare it w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll prooue the spirit of delusion, which the Apostle speaks of, which shall deceiue such as will not rest in the iudgement of Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Church nor in the loue of the truth. <hi>2. Thess. 2.10.11.</hi> The godly learned in all ages since as our Martyr-booke doth wit<g ref="char:EOLhyphen"/>nesse, haue had those Fathers and Churches in singular reue<g ref="char:EOLhyphen"/>rence, and namely our late Martyrs, (as our Martyr booke doth witnesse.) Heare I pray you, what a graue learned man,
+<pb facs="tcp:1947:24"/> and in <hi>Queene Maries</hi> day<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> a blessed Martyr thinke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f these Churches and Fathers, which you and Maister <hi>Iacob</hi> set so light by booke of Martyrs <hi>page. 1670.</hi> And truly for my part I doe thinke, that hee was as learned, godly, and as zealous for Gods glorie and true religiō as any disciplinarian in Christendome, none excepted. Yet he was so farre of from reiecting the first Churches of God and the Fathers, which taught them, that he in matters of God restes in their iudge<g ref="char:EOLhyphen"/>ments. Heare what hee hath written to one, ready to bee se<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uced by Sathā. <hi>All the church here militant ought to con<g ref="char:EOLhyphen"/>sent to the Primitiue Church.</hi> And againe, <hi>They haue vn<g ref="char:EOLhyphen"/>speakable ioy, which bee at vnitie with the Primitiue church.</hi> And againe, <hi>I construe it to bee the will of God,</hi> to mooue you with many others to conforme your selues in all your opinions, touching faith to the Primitiue Church, which is the piller and stablishment of truth. And againe, <hi>The pri<g ref="char:EOLhyphen"/>mitiue church had a greater fulnesse of truth, then we haue now. The first fruites of the holy Ghost did declare the true interpretation of the Scriptures, vnto them according to all veritie.</hi> This is true humiliation, and if I were in M. <hi>Iacobs</hi> skinne, I should blush to read it. And againe (saith M. <hi>Philpot) And since all truth was taught to the Primitiue church, which is our Mother, let all the obedient children of God, submit themselues to the iudgement of the church, for the better vnderstanding of the Articles of the Faith, and of the doubtfull Sentences of the Scripture.</hi> Let vs not goe about, to shew in vs (by following any mans priuate interpretation vpon the worde) another spirit than they of the Primitiue Church had, lest wee deceaue our selues. For there is but one faith and one spirit, which is not contrary to himselfe, neither otherwise now teacheth vs then hee did them. Therfore let vs beleeue as they haue taught vs from the scrip<g ref="char:EOLhyphen"/>tures. Therefore God commanded vs in <hi>Iob,</hi> to aske of the Elder generation, and to seeke diligently the memorie of the Fathers. (For we are but Yesterdaies children, and are igno<g ref="char:EOLhyphen"/>rant) and they shall teach thee, and vtter the words from their hearts. The Lord (saith hee) grant you to direct your steps,
+<pb facs="tcp:1947:25"/> after her in all things and to abhorre contention with he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> againe, <hi>Be conformable to the Primitiue church,</hi> and <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> doubtlesse you cannot erre in matters of faith. And thus w<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>h good M. <hi>Philpot</hi> writes in the behalfe of that Church, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> those learned fathers, which now are so slightly set by. If yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> shall thinke of this holy Martyrs iudgement, as M. <hi>Iacob</hi> doth of all the fathers. I shall thinke of you as I doe of h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, namely, that you are not guided by that holy and humble <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>rit, which the Primitiue Church, and godly M. <hi>Philpot</hi> w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> guided by. For they thought better of euery godly, learn<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> man, then of themselues as their workes declare.</p>
+                  <p>And now to conclude, seeing you will not bee troubled, with the books, nor the Fathers iudgements, I pray you trouble mee no more with your newe expositions of the Epistles of <hi>Paul</hi> to <hi>Timothie</hi> and <hi>Titus.</hi> For indeed I hold it safer (ac<g ref="char:EOLhyphen"/>cording to holy <hi>Philpots</hi> iudgement) to follow the iudgement of the Primitiue Church, and those Councels and Fathers, with which you will not be troubled, then yours according to <hi>Iobs</hi> counsall <hi>8, chap. 8. verse.</hi> And once againe, I pray yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> write me no more of these matters: but if you meane to pur<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> them, make choise of some Scholler which may haue mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e lust and leasure, and better abilitie to defend the truth to yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> good, which God grant. Neither would I haue written thus much, but beeing by you so often vrged, both in your Booke and three last letters. You should not thinke, but I had some<g ref="char:EOLhyphen"/>what to say, which may in some measure, if truth may take place, satisfie you.</p>
+                  <p>Where you say, finde a Bishop in all those <hi>60.</hi> kingdomes, Cities, and prouinces, by me named in my last to you, and you wil leaue your pleading I wish you would, for they haue gene<g ref="char:EOLhyphen"/>rall Superintendents, &amp; superintendents within their Office, differ no more from Archbishops, Bishops, then you doe from him that wrote me this Letter, that is your owne selfe.</p>
+                  <p>Thus sir, wishing you all good in the Lord, and especially, that both your selfe and others by your perswasion, may thinke better of the godly Church gouernment, by our Prince established, according to the word of God, and practise of the
+<pb facs="tcp:1947:25"/> Primitiue Churches, as is before prooued, which grace God g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e you all that thinke amisse of it Amen.</p>
+                  <closer>
+                     <signed>
+                        <hi>Your friend <hi>P. F.</hi>
+                        </hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>THus hauing set downe the reasons of mine high resolu<g ref="char:EOLhyphen"/>tion, as you call it, touching our Church, I haue for the further satisfaction of such as truth will satisfie added a <hi>Cato<g ref="char:EOLhyphen"/>logue</hi> of the names of <hi>Bishops, Priests and Deacons</hi> in the ages, next following the Apostles as they are recorded in that worthy storie compiled by Maister <hi>Iohn Fox</hi> of blessed me<g ref="char:EOLhyphen"/>morie, called the Booke of <hi>Martyrs,</hi> or <hi>Actes and Monu<g ref="char:EOLhyphen"/>ments.</hi> To the ende it may appeare that the authoritie of Bi<g ref="char:EOLhyphen"/>shops ouer or aboue Priests, Elders, or Ministers, is not a newe diuise, as some haue, and doe beare vs in hand: but the ancient and continued practise of Gods Church, long before poperie was hatched, yea, euen from the Apostles times, and that all Elders and Priests were Ministers of the worde and Sacraments, and not any lay elders to gouerne the Church only with the Pastors, according to the disciplinarians new fa<g ref="char:EOLhyphen"/>shion) as some would make the worlde beleeue (if they could) with their smooth wordes and fine glosses. And this I haue the reather done, because I see that the Booke of <hi>Martyrs</hi> is often abused against our Church gouernment, and the go<g ref="char:EOLhyphen"/>uernors, of it which is the grosse ignorance of the Readers, For Maister <hi>Fox,</hi> (as I haue shewed) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth in the beginning of his Workes affirme that the offices of Bishops, Priestes, and Deacons are according to the Scriptures and practise of the Primitiue Church. Purposing as it seemeth to preuent al his Readers from stumbling at that point. See boke of Mar<g ref="char:EOLhyphen"/>tyres the <hi>5.</hi> edition, page <hi>15.</hi> and the L. <hi>Cobham</hi> whose iust deprauation of the papisticall Bishoppes, I finde often a<g ref="char:EOLhyphen"/>bused against our Bishops) doth affirme before. <hi>Thomas A<g ref="char:EOLhyphen"/>rundell</hi>
+               <pb facs="tcp:1947:26"/> then Archbishop of <hi>Canterbury,</hi> that there were ver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many godly Bishops in <hi>Rome,</hi> before <hi>Antichrists</hi> time twē<g ref="char:EOLunhyphen"/>tie sixe whereof were Martyrs, foure excepted. See Booke of <hi>Martyrs, page 518.</hi> in the Margent, I finde <hi>Iohn Clay<g ref="char:EOLhyphen"/>den, Williā Suenderby</hi> Priest, &amp; all our late Martyrs of this minde, vehement they were indeede against such Bishops, as then tyranized ouer the faith and consciences of men, but neuer did they dislike such Bishops as the Primitiue Church had, and which did maintaine the blessed Gospell of Christ, as ours doe. And therefore Doctor <hi>Raynolds</hi> is to bee com<g ref="char:EOLhyphen"/>mended for approouing the truth in this point. For he shew<g ref="char:EOLhyphen"/>eth that from Christs time though <hi>Ephesus</hi> had many Mini<g ref="char:EOLhyphen"/>sters, yet one was called by Christ an Angell, whom af<g ref="char:EOLhyphen"/>terwards the Fathers of the Primitiue Church, called Bi<g ref="char:EOLhyphen"/>shops <hi>Raynolds</hi> against <hi>Hart, page 555.</hi> and our lear<g ref="char:EOLhyphen"/>ned Doctor <hi>Fulke,</hi> in his answere to the <hi>Rhemish Testa<g ref="char:EOLhyphen"/>ment,</hi> prooues that for order sake, there was alwayes in eue<g ref="char:EOLhyphen"/>ry Church one <hi>Principall,</hi> which roome (saith hee) <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> exercised in <hi>Creta</hi> and <hi>Timothie</hi> in <hi>Ephesus.</hi> And with him agreeth all the Fathers of the Primitiue Church, as is plaine in <hi>Eusebius</hi> as Maister <hi>Foxe</hi> hath well shewed, and all the late writers of any credite as in this dicourse is proued, And therefore I wish those that are o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would seeme wise or religious, not to cracke their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reecites by maintaining their fancies against the consent of Gods word, and all the holy ex<g ref="char:EOLhyphen"/>pounders of it for more then a thousand yeares after Christs death, except one <hi>Aerius</hi> a priest who pleaded for equality, &amp; was more then twelue hundreth yeares since condemned for an hereticke: I rather wish all sober Christians to rest in M. <hi>Philpots</hi> resolution Archdeacon of <hi>Winchester</hi> and Martyr in the last popish time (God grant it may be the last in Eng<g ref="char:EOLhyphen"/>land) where he saith all the Church here militant ought to con<g ref="char:EOLunhyphen"/>sent to the Primitiue church, and his reason is because they haue vnpseakeable ioy that be at vnitie with the Primitiue church: For it had a greater fulnes of truth then we haue now (saith he) the first fruites of the holy ghost did declare the tru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> interpretation of the scriptures vnto thē according to al verity
+<pb facs="tcp:1947:26"/> This true humiliatiō God grant vs all to follow, for it is much to be preferred before their pride, who tell vs that these poore old Martyrs came forth in the morning before the Sunne did rise, and could not see such truthes as their wisedoms do which came when the Sunne was vp forsooth. But holy and truely religious <hi>Philpot</hi> was farre from their veine: for thus hee proceeds, booke of Martyrs <hi>5. edition. page. 1670.</hi> Let vs not (saith he) goe aboute to shew in vs (by following any priuate mans interpretation, vppon the word) an other spi<g ref="char:EOLhyphen"/>rit then the Primitiue church had, lest wee deceaue our selues (saith he) This sober and Christian counse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l God graunt vs to follow, and God remoue presumption of finding out new truthes (contrary to truth) from all that call vpon his name Amen.</p>
+         </div>
+         <div type="table_of_martyrs">
+            <pb facs="tcp:1947:27"/>
+            <pb facs="tcp:1947:27"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Numbers of Bishops and Martyrs</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>A TABLE OF SVCH CLER<g ref="char:EOLhyphen"/>gie</hi> men as were <hi>Martyrs, collected</hi> out of Master <hi>Fox</hi> his Booke.</cell>
+                     <cell role="label">
+                        <hi>Yeeres of the Lord.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Page.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>SImon</hi> the Deacon, Bishop afterward of <hi>Bostium in Arabia,</hi> and there bur<g ref="char:EOLhyphen"/>ned for the Gospell.</cell>
+                     <cell>69</cell>
+                     <cell>29.</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Simon Cananeus</hi> was bishop of <hi>Ierusalem</hi> next after Saint <hi>Iames.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Marke</hi> the Euangelist the first bishop of <hi>Alexandria.</hi> See <hi>Eusebius lib.</hi> 2. <hi>cap</hi> 24. <hi>page.</hi> 35.</cell>
+                     <cell> </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>Iames</hi> Bishop of Ierusalem, witnesse <hi>Aegesippus</hi> and <hi>Clemen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> See <hi>Euseb lib.</hi> 2. <hi>cap.</hi> 23. <hi>page.</hi> 32.</cell>
+                     <cell> </cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>5 6</cell>
+                     <cell rows="5">
+                        <hi>Lucius</hi> first bishop of <hi>Rome</hi> after <hi>Peter,</hi> see <hi>Eusebius</hi> lib. 3. cap. 2. page. 36. <hi>Anacletus,</hi> was the second Bishop of <hi>Rome,</hi> the 3. was <hi>Evaristus, Alexander &amp;c.</hi> then <hi>Sixtus</hi> the sixt Bishop of Rome after the Apostles, the next <hi>Telisphorus,</hi> then <hi>Higmus,</hi> then <hi>Pius,</hi> then <hi>Anicetus,</hi> then <hi>Soter,</hi> then <hi>Eluthe<g ref="char:EOLhyphen"/>rius.</hi> 15.</cell>
+                     <cell>200</cell>
+                     <cell>34.</cell>
+                  </row>
+                  <row>
+                     <cell>7. 8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Simon</hi> bishop of Ierusalem 16.</cell>
+                     <cell> </cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>
+                        <hi>Phocas</hi> bishop of Pontus Martyr. 17.</cell>
+                     <cell> </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>
+                        <hi>Ignatius</hi> bishop of Antioch. Martyr. 18</cell>
+                     <cell>111</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Onesemus</hi> bishop of Ephesns. 29.</cell>
+                     <cell> </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Daman</hi> bishop of <hi>Magnesin.</hi> 20.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>
+                        <hi>Publius</hi> bishop of Athens. 21.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Elutherius</hi> bishop in Apul<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>2.</cell>
+                     <cell> </cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Quadratus</hi> bishop of Athens. 23. disci<g ref="char:EOLhyphen"/>ple of the Apostles.</cell>
+                     <cell>126</cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Policarpus</hi> Martyr, made Bishop of <hi>Smyr<g ref="char:EOLhyphen"/>na</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>38</cell>
+                  </row>
+               </table>
+               <table>
+                  <pb facs="tcp:1947:28"/>
+                  <row>
+                     <cell role="label">Yeeres of the Lor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</cell>
+                     <cell role="label">Page</cell>
+                     <cell role="label">
+                        <hi>A Table</hi>
+                     </cell>
+                     <cell role="label">
+                        <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>by S. <hi>Iohn,</hi> See <hi>Euseb.</hi> lib. 4. cap. 25. page. 661. the last line, &amp; lib. 4. cap. 14. page 63.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>45</cell>
+                     <cell>
+                        <hi>Ireneus</hi> first made Priest, and afterward Bishop of Lions in France. A manifest proofe that a priest or presbyter, and a Bishoppe were not al one at this time, but that a bishoppe was a superior, and a presbyter an inferior office. See <hi>Eusebius</hi> lib 4. cap. 5. page.</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Ibidem</cell>
+                     <cell>
+                        <hi>Photimus</hi> bishop of Lions before <hi>Ireneus.</hi>
+                     </cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>47</cell>
+                     <cell>
+                        <hi>Peregrinus</hi> a bishoppe in France, and sent thi<g ref="char:EOLhyphen"/>ther by <hi>Xistus.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>48</cell>
+                     <cell>
+                        <hi>Seraphion</hi> bishoppe of Antioch.</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>49</cell>
+                     <cell>
+                        <hi>Alexander</hi> made bishop of Ierusalem, after he had beene hardly persecuted and tormen<g ref="char:EOLhyphen"/>ted vnder <hi>Serenus</hi> the Emperour. &amp;c.</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                     <cell>
+                        <hi>Asclepiades</hi> made bishop of Antioch, after much and many sufferinges.</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>50</cell>
+                     <cell>
+                        <hi>Victor</hi> bishop of Rome, next <hi>Elutherius.</hi>
+                     </cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                     <cell>
+                        <hi>Mileto</hi> bishop of Sardis.</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>31</cell>
+                     <cell>
+                        <hi>Theophilus</hi> bishop of Cesaria, in the time of <hi>Vi<g ref="char:EOLhyphen"/>ctor</hi> bishop of Rome.</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>51</cell>
+                     <cell>
+                        <hi>Narcisius</hi> bishop of Ierusalem, see <hi>Euseb.</hi> lib. 5. cap. 11. page 85.</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Dionisius</hi> bishop of Corinth.</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                     <cell>
+                        <hi>Dionisius Areepagita</hi> first bishop of Athens.</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                     <cell>
+                        <hi>Polycrates</hi> bishop of Ephesus.</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>52</cell>
+                     <cell>
+                        <hi>Calixtus</hi> bishop of Rome Martyr.</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>227</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Vrbanus</hi> bishop of Rome.</cell>
+                     <cell>39</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Anterius</hi> bishop of Rome Martyr.</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>240</cell>
+                     <cell>53</cell>
+                     <cell>
+                        <hi>Pontianus</hi> bishop of Rome before him, hee and <hi>Philippus</hi> his Priest banished as some write.</cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>54</cell>
+                     <cell>
+                        <hi>Hypolitus</hi> bishop and Martyr.</cell>
+                     <cell>4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>ibidem</cell>
+                     <cell>
+                        <hi>Fabianus</hi> bishop of Rome.</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Heraclas</hi> bishop of Alexandria called Pope, &amp; yet no Bishop of Rome, for the word Pope was common to all bishops, as is manifest</cell>
+                     <cell>44</cell>
+                  </row>
+               </table>
+               <table>
+                  <pb facs="tcp:1947:28"/>
+                  <row>
+                     <cell role="label">Num<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell role="label">
+                        <hi>A Table.</hi>
+                     </cell>
+                     <cell role="label">Yeeres <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the Lord.</cell>
+                     <cell>Pag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>by stories and other authors, as is to be seen in the Epistles that passe between <hi>Augustine</hi> and <hi>Ierome,</hi> which I haue seene in English in written hand.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>
+                        <hi>Babilas</hi> Bishop of Antioch.</cell>
+                     <cell> </cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell>46</cell>
+                     <cell>
+                        <hi>Lionisius</hi> bishop of Alexandria.</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>47</cell>
+                     <cell>
+                        <hi>Cremon</hi> bishop of the Citty <hi>Nilus,</hi> a married man and a bishop.</cell>
+                     <cell> </cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>51</cell>
+                     <cell>
+                        <hi>Dionisius Alexandrinus</hi> bishop and a married mā hauing children.</cell>
+                     <cell> </cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>
+                        <hi>Bellyas</hi> bishop of the citty Apollonia.</cell>
+                     <cell> </cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell>53</cell>
+                     <cell>
+                        <hi>Phy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>as</hi> bishop.</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>54</cell>
+                     <cell>
+                        <hi>Philoronius</hi> bishop of Babylon.</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>55</cell>
+                     <cell>
+                        <hi>Thesiphon</hi> bishop of Pamphilia.</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>56</cell>
+                     <cell>
+                        <hi>Nestor</hi> bishop of Corduba.</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>57</cell>
+                     <cell>
+                        <hi>Parmenius</hi> Priest.</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>58</cell>
+                     <cell>
+                        <hi>Rogatianus</hi> Priest.</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>59</cell>
+                     <cell>
+                        <hi>Zeno</hi> bishop and martyr.</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Priuatus</hi> of Millaine Martyr.</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>61</cell>
+                     <cell>
+                        <hi>Theodorus Gregorius</hi> bishop of Pontus, Martyr.</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>62</cell>
+                     <cell>
+                        <hi>Cornelius</hi> bishop of Rome.</cell>
+                     <cell> </cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>63</cell>
+                     <cell rows="2">
+                        <hi>Nouatus</hi> Priest, who began an heresie at Car<g ref="char:EOLhyphen"/>thage, who tooke vpon him to ordaine <hi>Fe<g ref="char:EOLhyphen"/>licissimus</hi> a Deacon, contrary to the bishops mind and knowledge, and afterwards wold needes make himselfe bishoppe of Rome, keeping a foule stirre in the church. See <hi>Eu<g ref="char:EOLhyphen"/>sebius</hi> lib. 6. cap. 42. page. 117.</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+                  <row>
+                     <cell>64</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>65</cell>
+                     <cell>
+                        <hi>Cyprian</hi> first ordained a Priest, was afterwarde made bishop of Carthage.</cell>
+                     <cell> </cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell rows="2">
+                        <hi>Nazianzenus</hi> writteth that <hi>Cyprian</hi> had the gouernment of the whole Eastchurch, &amp; the church of Spaine, &amp; was called the bi<g ref="char:EOLhyphen"/>shop of the christian men. It seemeth that he was an Archbishop. He was conuerted to the faith by means of <hi>Cy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lianus</hi> a Priest.</cell>
+                     <cell> </cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>66</cell>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                  </row>
+               </table>
+               <table>
+                  <pb facs="tcp:1947:29"/>
+                  <row>
+                     <cell role="label">Yeere of the Lorde</cell>
+                     <cell role="label">Page</cell>
+                     <cell role="label">
+                        <hi>A Table.</hi>
+                     </cell>
+                     <cell role="label">Num<g ref="char:EOLunhyphen"/>bers</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>In <hi>Cyprians</hi> Epistles often mention is made of bishops, and Priests, or Presbiters to whom he writeth. And not any of these Presbyters are lay presbiters, or as wee call them vnpreaching Elders.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>64</cell>
+                     <cell rows="3">
+                        <hi>Xixtus</hi> the second bishop of Rome with his six deacons martyred whereof one was named <hi>Nen esius</hi> Another <hi>Laurentius,</hi> who did distribute as there hee saith the Lordes blood: Whereby is gathered that the Dea<g ref="char:EOLhyphen"/>cons office is not onely to distribute and gather the churches treasure, as the <hi>Disci<g ref="char:EOLhyphen"/>plinarians</hi> dreame.</cell>
+                     <cell>67</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>68</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>69</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>65</cell>
+                     <cell>
+                        <hi>Eusebius</hi> a Deacon made Bishop of <hi>Laodicia.</hi>
+                     </cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Maximus</hi> bishop of Alexandria.</cell>
+                     <cell>71</cell>
+                  </row>
+                  <row>
+                     <cell>262</cell>
+                     <cell>66</cell>
+                     <cell>
+                        <hi>Helenus</hi> bishop of Tarsas in Cicilia.</cell>
+                     <cell>72</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>67</cell>
+                     <cell rows="2">
+                        <hi>Fructuosus</hi> Bishop of Tarracona in Spaine, Martyr and his two Deacons.</cell>
+                     <cell>73</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>75</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell rows="3">
+                        <list>
+                           <item>
+                              <hi>Augurus &amp; Gulogius</hi> with him
+<list>
+                                 <item>
+                                    <hi>Dionisius Bishoppe of A<g ref="char:EOLhyphen"/>lexandria, banished with foure Priests, and</hi> 3 <hi>Deacons.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>
+                              <hi>Theoteenus</hi> Bishop of Cesaria.</item>
+                        </list>
+                     </cell>
+                     <cell>76</cell>
+                  </row>
+                  <row>
+                     <cell>263</cell>
+                     <cell>ibidem.</cell>
+                     <cell>77. 78</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>68</cell>
+                     <cell>79</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                     <cell rows="4">
+                        <p>
+                           <hi>Dionisius</hi> bishoppe Rome.</p>
+                        <p>
+                           <hi>Felix</hi> bishop of Rome and Martyr.</p>
+                        <p>
+                           <hi>Euticianus</hi> bishop of Rome and martyr.
+<list>
+                              <item>
+                                 <hi>Bishops</hi> 24. <hi>of Persia set downe by M. Fox out of Zozomenus &amp; Nicephorus, al which were Martyrs vnder Sapores king of Per<g ref="char:EOLhyphen"/>sia, and there it is said tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap> Maureada had churches vnder him, page</hi>
+                                 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>82. <hi>Colum.</hi> 2.</item>
+                           </list>
+                        </p>
+                        <p>
+                           <hi>Gaius</hi> bishop of Rome and <hi>Theodorus</hi> bishop of <hi>Neo<g ref="char:EOLhyphen"/>cessaria alias Gregorius mag<g ref="char:EOLhyphen"/>nus Zawma Turges</hi> as <hi>Nicephorus</hi> calleth him</p>
+                     </cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>ibidem.</cell>
+                     <cell>81</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>82</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>83</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>68</cell>
+                     <cell>
+                        <hi>Anatholius</hi> bishop of Lao<g ref="char:EOLhyphen"/>dicia.
+<list>
+                           <item>
+                              <hi>M. Fox alloweth of Archbishops or Patri<g ref="char:EOLhyphen"/>arkes, bishops, Prieste, and Deacons, Act<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>, Monumentes page 15</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>84</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>70</cell>
+                     <cell>
+                        <hi>Cyrillus</hi> bishop of Antioch</cell>
+                     <cell>85</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Siluanus</hi> bishop of Gassen<g ref="char:EOLhyphen"/>sis martyr.</cell>
+                     <cell>86</cell>
+                  </row>
+               </table>
+               <table>
+                  <pb facs="tcp:1947:29"/>
+                  <row>
+                     <cell role="label">Num<g ref="char:EOLunhyphen"/>bers</cell>
+                     <cell role="label">
+                        <hi>A Table.</hi>
+                     </cell>
+                     <cell role="label">
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>eres <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> our <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell role="label">
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ge</cell>
+                  </row>
+                  <row>
+                     <cell>87</cell>
+                     <cell cols="4">
+                        <p>
+                           <hi>Pamphilus</hi> bishoppe of Cesaria.
+<list>
+                              <item>
+                                 <hi>Colum.</hi> 1.</item>
+                              <item>
+                                 <hi>And therefore they who affirme otherwise are not to bee credited no not Maister Cart<g ref="char:EOLhyphen"/>wright himselfe.</hi>
+                              </item>
+                           </list>
+                        </p>
+                        <p>
+                           <hi>Syluanus</hi> bishop of Emissa martyr.</p>
+                        <p>
+                           <hi>Anthymus</hi> bishop of Ni<g ref="char:EOLhyphen"/>codemy a martyr.</p>
+                     </cell>
+                     <cell> </cell>
+                     <cell>ibidē. ibidē.</cell>
+                  </row>
+                  <row>
+                     <cell>88</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>89</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>90</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>91</cell>
+                     <cell>
+                        <hi>Lucyanus</hi> elder or Priest of Antioch and martyr</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>92</cell>
+                     <cell>
+                        <hi>Pylyus</hi> bishop of Egypt martyr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>93</cell>
+                     <cell>
+                        <hi>Nylus</hi> bishop and martyr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>94</cell>
+                     <cell rows="2">
+                        <hi>Petrus</hi> bishop of Alexandrina with certain El<g ref="char:EOLhyphen"/>ders then martyred, as</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>95</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>96</cell>
+                     <cell rows="3">
+                        <list>
+                           <item>
+                              <hi>Faustus</hi>
+                           </item>
+                           <item>
+                              <hi>Didius</hi>
+                           </item>
+                           <item>
+                              <hi>Amonius</hi> Elders or Priests
+<list>
+                                 <item>
+                                    <hi>Simō Archbishop of Selucia, with two of his Priests Abedicaluas &amp; Ananias martyred, p.</hi> 88 89. <hi>vn<g ref="char:EOLhyphen"/>der Sapores king of Persia.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>271</cell>
+                     <cell>72</cell>
+                  </row>
+                  <row>
+                     <cell>97</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>98</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>99</cell>
+                     <cell rows="5">
+                        <list>
+                           <head>Bishoppes of the congrega<g ref="char:EOLhyphen"/>tions in Egypt.</head>
+                           <item>
+                              <hi>Phyleas</hi>
+                           </item>
+                           <item>
+                              <hi>Hesiehius</hi>
+                           </item>
+                           <item>
+                              <hi>Pachymenius</hi>
+                           </item>
+                           <item>
+                              <hi>Theodorus</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>100</cell>
+                     <cell> </cell>
+                     <cell>ibidē</cell>
+                  </row>
+                  <row>
+                     <cell>102</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>103</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>104</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>105</cell>
+                     <cell rows="2">
+                        <hi>Marcellinus</hi> bishoppe of Rome fell in per<g ref="char:EOLhyphen"/>secution and repented.</cell>
+                     <cell> </cell>
+                     <cell>82</cell>
+                  </row>
+                  <row>
+                     <cell>106</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>107</cell>
+                     <cell rows="2">
+                        <hi>Cyprian<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s</hi> first a Deacon then made priest, af<g ref="char:EOLhyphen"/>terwardes bishoppe of Antioch.</cell>
+                     <cell> </cell>
+                     <cell>83</cell>
+                  </row>
+                  <row>
+                     <cell>108</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>109</cell>
+                     <cell>
+                        <hi>Carpophorus</hi> Priest martyr.</cell>
+                     <cell> </cell>
+                     <cell>ibidē.</cell>
+                  </row>
+                  <row>
+                     <cell>110</cell>
+                     <cell rows="2">
+                        <list>
+                           <head>Priestes to Felix bishoppe of Apuleia.</head>
+                           <item>
+                              <hi>Andactus</hi>
+                           </item>
+                           <item>
+                              <hi>Taunuarius</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>111</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>112</cell>
+                     <cell>
+                        <hi>Miltiades</hi> bishoppe of Rome.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:1947:30"/>
+            <p> BEsides these which I haue set downe, I might haue men<g ref="char:EOLhyphen"/>tioned a great number more, but it needes not, seeing the booke of Martyrs is euery where to be read and seene. In the description of the ten persecutions there, who so lusteth let him reade more.</p>
+            <p>Here I would haue obserued that where <hi>Cyprian</hi> saith, That there ought to be but one bishop in one catholike church, and <hi>Cornelius</hi> bishop of Rome speaketh also in like sort against <hi>Nouatus,</hi> who went about to set vp himselfe bishop of Rome: <hi>Cornelius</hi> being bishop. Their meaning is saieth M. <hi>Fox,</hi> that euery one catholike church or Diocesse ought to haue but one bishop ouer it. The Papistes abuse this to establish one Pope or Bishop of Rome ouer the whole Catholike church in earth.</p>
+            <p>Reade more to this purpose in the Bishop of Winchesters booke of the perpetual gouernment of Christes Ehurch espe<g ref="char:EOLhyphen"/>cially the 13. chapter.</p>
+            <p>Thus the Bishoppes offices being proued lawfull, there is two idle quarrels pickt against them, by such as are conten<g ref="char:EOLhyphen"/>tious, which I thought good in few wordes to aunswere and refute: The first is that the Ministers of God may not bee cal<g ref="char:EOLhyphen"/>led Lordes, against which factious fancie, reade these scriptures following, 2, King. 2.19. and chap. 4.16. and 18. and chap. 6.5 21. and chap. 13.4. and 2. Kings chap. 18.7. and 13. and <hi>Iohn</hi> 13.14.15. where Christ approues the name, and who lift to see further proofe, let him reade the 5. and 6. chapters of the booke called the <hi>Perpetuall gouernment of Christs church.</hi>
+            </p>
+            <p>Their second quarrell is thst it is not lawfull for Ministers to haue and execute any ciuill authority, against which obiec<g ref="char:EOLhyphen"/>ion read these scriptures, and God giue you a true vnderstan<g ref="char:EOLhyphen"/>ding of them. 1 <hi>Sam.</hi> 4.18. where <hi>Ely</hi> the priest was Lord iudge of <hi>Israel</hi> 40. yeares. and 2. <hi>Chron.</hi> 19.8.10. where it plaine that Priests and Leuites iudged in causes of bloud. In <hi>Ezra</hi> 7.26. tis plainely recorded by the holy story that <hi>Ezra</hi>
+               <pb facs="tcp:1947:30"/> being a Priest had power to shed bloud, bannish, confiscate goods, or imprison at their returne from <hi>Babylon.</hi> This power was giuen him by the king, and God approues of it therefore this proofe reacheth home. I could adde many exam<g ref="char:EOLunhyphen"/>ples of very ancient Christian churches and many reformed Churches at this day.<note place="margin">As of Alexandria, where Cyrill their bishop was by Theosius the Emperor made a ciuill iudge and did put to death and bannish many Iewes. Socrates lib. 7. cap. 13. pag. 183. And Dorotheus a bishop was a magistrate in Tyrus &amp; had by the Emperors gift the ouersight of dying purple See Eusebius lib. cap. 31.</note> But one shall serue, (because few of those quarellers will deny any thing which is done in that church) In <hi>Geneua</hi> some of their Ministers is alwaies of the counsell of state as M. <hi>Beza</hi> and M. <hi>Caluin</hi> those blessed men of god. Moreouer their twelue Elders which they hold for ecclesiasticall persons are all Magistrates in that citie, yea the chiffe Lord Maior (as we call him) or <hi>Syndick</hi> is alwayes an Elder at least one of them, for they haue four <hi>Syndicks.</hi> Now why the Queenes highnesse (if she please) may not as well make the Archbishop of Canterbury and other cleargy men in England of her counsell, or apoint them to other ciuill offices, for which thee are fit? as either <hi>Iehoshaphat</hi> 2. <hi>Chron.</hi> 9. might his Priests and Leuites, or king <hi>Artahshashte</hi> and his 7. coun<g ref="char:EOLhyphen"/>sellers (being heathen men) might make <hi>Ezra</hi> the priest a ci<g ref="char:EOLhyphen"/>uill iudge. <hi>Ezra</hi> 7.14. or the states of <hi>Geneua</hi> make some of their wise and learned ministers counsellers of estate, why I say her Maiesty may not as well make some of her clergy coun<g ref="char:EOLunhyphen"/>sellers and Magistrates, I yet can see no reason nor (I thinke euer shall. For I am sure Gods word is not partiall, it doth allow the Queene of England as much authority as the state of <hi>Geneua</hi> at least. I vrge this the more because I haue recei- a letter from a Preacher wherein he is vehement against the ciuill authority of our Ministers in England, and yet labors to appooue of the same proceedings in <hi>Geneua,</hi> extolling them with many great words. But such partiallitie I dislike, be<g ref="char:EOLhyphen"/>cause it is not according to godlines and I pray God keepe all his people from it. Amen.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
